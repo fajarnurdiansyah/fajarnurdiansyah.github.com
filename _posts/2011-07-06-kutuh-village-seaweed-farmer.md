@@ -3,7 +3,7 @@ layout: post
 title: Kutuh Village Seaweed Farmer
 ---
 ![morning harvest at kutuh village](/images/DSC_5774.jpg){:title="morning harvest at kutuh village" .shadow640}
-![morning harvest at kutuh village](/images/shadow640.png){:title="morning harvest at kutuh village" .shadow640}
+![shadow](/images/shadow640.png)
 
 I Wayan Wirawan, has been a seaweed farmer for 10 years.
 

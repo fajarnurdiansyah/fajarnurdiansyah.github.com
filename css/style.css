@@ -31,8 +31,9 @@ hr {
 }
 
 div.title {
-	font-size: 200%;
+	padding-top: 20px;
 	float: left;
+	font-weight:bold
 }
 #subtitle{
 	float: right;
@@ -76,9 +77,4 @@ article a:visited{
 	display: block; 
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#posts img.shadow640:before{
-	content: "test ";
-	display: block; 	
 }
