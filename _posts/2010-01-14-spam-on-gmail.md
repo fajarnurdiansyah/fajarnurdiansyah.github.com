@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Spam
+title: Spam on Gmail
+intro: Everybody hates spam.
 ---
 This whole time, I've been very careful with my email. I never gave it out
 easily, never register to any shady website, never displayed it in public

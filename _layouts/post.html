@@ -7,18 +7,19 @@
 	<title>{{ page.title }}</title>
 	<meta name="author" content="<%= @page.author %>" />
 	<!-- CodeRay syntax highlighting CSS -->
-	<link rel="stylesheet" href="/css/style.css" type="text/css" />
 	<link rel="openid.server" href="http://www.myopenid.com/server" />
 	<link rel="openid.delegate"	href="http://fajar.nurdiansyah.myopenid.com/" />
 	<link rel="openid2.local_id" href="http://fajar.nurdiansyah.myopenid.com" />
 	<link rel="openid2.provider" href="http://www.myopenid.com/server" />
 	<meta http-equiv="X-XRDS-Location" content="http://www.myopenid.com/xrds?username=fajar.nurdiansyah.myopenid.com" />
 	<link rel="alternate" type="application/atom+xml" title="Fajar Nurdiansyah" href="http://feeds.feedburner.com/FajarNurdiansyah" /> 
+	<link href='http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT&v1' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/css/style.css" type="text/css" />	
 </head>
 <body>
 	<div class="site">
 		<div class="title">
-			<a href="/">Fajar Nurdiansyah</a>
+			<h1 style="margin-bottom:0px;"><a href="/">Fajar Nurdiansyah</a></h1>
 		</div>
 		<div id="subtitle">
 			<a href="/about">about</a> | 
@@ -27,7 +28,7 @@
 		</div>
 	  <div id="posts">
 		<div>
-			<div class="posttitle"><a href="{% if page.link %}{{page.link}}{% else %}{{page.url}}{% endif %}">{{ page.title }}</a></div>
+			<div class="posttitle"><h1><a href="{% if page.link %}{{page.link}}{% else %}{{page.url}}{% endif %}">{{ page.title }}</a></h1></div>
 			<div class="postcontent"><article>{{ content }}<article></div>		
 		</div>
 	  </div>

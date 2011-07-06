@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kutuh Village Seaweed Farmer
+intro: Hunting with MTPC to Kutuh Village.
 ---
 <div markdown="1" class="border">
 ![morning harvest at kutuh village](/images/DSC_5774.jpg){:title="morning harvest at kutuh village"}   

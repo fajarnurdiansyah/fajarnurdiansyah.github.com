@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Can't Android Have A Smooth UI Animation?
+intro: This sucks.
 ---
 css: published/style.css
 title: Why android can’t have smooth UI animation

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Live Without PC
+intro: soap soap soap...
 ---
 
 My PC is broken. No PC means I have to put up with what they show on the television. So what do you expect when you turn on the tv on prime time? SINETRON!

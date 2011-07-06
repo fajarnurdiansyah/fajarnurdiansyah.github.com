@@ -2,6 +2,7 @@
 layout: post
 title: Why is European broadband faster and cheaper?
 link: http://www.engadget.com/2011/06/28/why-is-european-broadband-faster-and-cheaper-blame-the-governme/
+intro: Hints - its the goverment.
 ---
 css: published/style.css
 title: Why is European broadband faster and cheaper?

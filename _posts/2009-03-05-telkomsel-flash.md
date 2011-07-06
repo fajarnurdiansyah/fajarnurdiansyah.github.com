@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Telkomsel Flash
+intro: Its better than before.
 ---
 
 Telkomsel Flash speed today[:] 25KBps. It used to get no higher than 15KBps. Don't know why, but lately Telkomsel connection has been awfully good to me ;)

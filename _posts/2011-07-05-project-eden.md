@@ -2,6 +2,7 @@
 layout: post
 title: Project Eden
 link: http://eden.co.id
+intro: YCombinator for Indonesian.
 ---
 css: published/style.css
 title: Project Eden

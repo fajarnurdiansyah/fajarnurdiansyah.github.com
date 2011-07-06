@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About me
+# About me
 
 Hi! I'm Fajar Nurdiansyah. 
 
