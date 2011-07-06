@@ -78,6 +78,11 @@ article a:visited{
    color: #444;
 }
 
+a:hover, article a:hover, .posttitle a:hover{
+	text-decoration:underline;
+	color: #33aaff;
+}
+
 .border {
 	display: block; 
 	margin-left: auto;
