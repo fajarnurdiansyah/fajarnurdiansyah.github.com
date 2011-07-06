@@ -44,7 +44,12 @@ div.title {
 }
 
 .posttitle{
-	font-size: 200%;
+	font-size: 180%;
+	line-height: 1.1em;
+}
+
+.postcontent{	
+	margin-bottom: 2em;
 }
 
 a:link, .posttitle a:link{
@@ -65,4 +70,15 @@ article a:link{
 article a:visited{
    text-decoration: underline;
    color: #444;
+}
+
+#posts img{
+	display: block; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#posts img.shadow640:before{
+	content: "test ";
+	display: block; 	
 }
