@@ -3,6 +3,9 @@ layout: default
 title: About
 permalink: /about/
 ---
+
+## About me
+
 Hi! I'm Fajar Nurdiansyah. 
 
 I'm a programmer, hobbyst photographer, open water diver, and a fast food eater.
