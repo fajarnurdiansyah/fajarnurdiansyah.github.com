@@ -4,8 +4,7 @@ title: Fajar Nurdiansyah
 ---
 {% for post in site.posts %}
     <div>
-		<div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
-		{{ post.link }}
+		<div class="posttitle"><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></div>		
 		<div class="postcontent"><article>{{ post.content }}<article></div>
 	</div>
 {% endfor %}
