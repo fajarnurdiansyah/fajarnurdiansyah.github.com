@@ -1,0 +1,11 @@
+---
+layout: default
+title: Fajar Nurdiansyah
+---
+{% for post in site.posts %}
+    <div>
+		<div class="posttitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
+		{{ post.link }}
+		<div class="postcontent"><article>{{ post.content }}<article></div>
+	</div>
+{% endfor %}

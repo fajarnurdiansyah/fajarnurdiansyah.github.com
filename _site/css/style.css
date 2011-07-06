@@ -1,0 +1,68 @@
+body {
+   font: normal normal 1.2em 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+   color: #444;
+   /*text-align: justify;*/
+   width: 680px;
+   margin: auto;
+   padding-left:auto;
+   padding-right:auto;
+}
+blockquote {
+    border-left: solid 1px #aaa;
+    padding: 0em 0em 0em 0.7em;
+    background-color: #FCFCFC;
+    margin-left: 1em;
+	margin-right: 0em;
+}
+
+#posts sup{
+   font-size: 60%;
+}
+
+.footnotes{
+	font-size: 80%;
+}
+
+hr {
+	border: 0;
+	color: #aaa;
+	background-color: #aaa;
+	height: 1px;
+}
+
+div.title {
+	font-size: 200%;
+	float: left;
+}
+#subtitle{
+	float: right;
+	padding-top: 20px;
+}
+#posts{
+	clear: both;
+	padding-top: 20px;
+}
+
+.posttitle{
+	font-size: 200%;
+}
+
+a:link, .posttitle a:link{
+   text-decoration: none;
+   color: #333;
+}
+
+a:visited, .posttitle a:visited{
+   text-decoration: none;
+   color: #444;
+}
+
+article a:link{
+   text-decoration: underline;
+   color: #333;
+}
+
+article a:visited{
+   text-decoration: underline;
+   color: #444;
+}

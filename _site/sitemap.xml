@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://example.com</loc>
+    <lastmod>2011-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/project-eden/</loc>
+    <lastmod>2011-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/why-is-European-broadband-faster-and-cheaper/</loc>
+    <lastmod>2011-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/why_android_cant_have_smooth_UI/</loc>
+    <lastmod>2011-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+    <lastmod>2011-07-06</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/index.html</loc>
+    <lastmod>2011-07-06</lastmod>
+    
+    
+  </url>
+  
+</urlset>
