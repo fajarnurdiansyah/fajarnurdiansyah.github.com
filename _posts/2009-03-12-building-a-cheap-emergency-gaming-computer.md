@@ -3,18 +3,18 @@ layout: post
 title: Building Cheap, Emergency Gaming Computer
 ---
 This post is a part of series post I write to cover my experience in building
-a cheap, emergency gami	ng computer :P.
+a cheap, emergency gaming computer.
 
 Building a gaming box is not that hard, given you had enough budget. But for a
 broke, cheap ass guy like me, the current top of the line gaming PC is simply
-unaffordable :P. The only choice left is to build a cheap ass PC as a
+unaffordable. The only choice left is to build a cheap ass PC as a
 temporary rig, and hopes that sometime eventually, I can save enough money to
 upgrade it.
 
 So first thing first: Processor. My previous processor is an AMD Athlon 2400+
 and an AMD Athlond64 3000+. Never had an Intel processor. Not because I'm an
 AMD fanboy, no sir. I chose AMD because the price per performance ratio of
-these processors, at the time of buying, is sweet ;). Now for my new
+these processors, at the time of buying, is sweet. Now for my new
 processor,my target is a sub-$100 processor. The processor that quickly pop up
 in mind was [Athlon64 X2 7750][7] (again, not a fanboy :P). But after doing a
 little research on current processor available on the market, [Intel E5200][8]
@@ -23,7 +23,7 @@ quickly grab my attention.
    [7]: http://www.newegg.com/Product/Product.aspx?Item=N82E16819103300&Tpk=Athlon64%20X2%207750 (NewEgg Spec)
    [8]: http://www.newegg.com/Product/Product.aspx?Item=N82E16819116072 (NewEgg Specification)
 
-![][9]
+![][9]{:title="e5200" .inline}
 
    [9]: http://docs.google.com/File?id=dgk6cm8n_10fm9d6kc3_b
 

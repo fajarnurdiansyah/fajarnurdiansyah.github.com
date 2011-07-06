@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Why android can't have smooth UI animation
+title: Why Can't Android Have A Smooth UI Animation?
 ---
 css: published/style.css
-title: Why android can't have smooth UI animation
+title: Why android can’t have smooth UI animation
 doc_prefix: whycantandroidhavesmoothUI
 
 Last week I had the unfortunate experience of trying out an iOS device. Unfortunate because it leaves a bad aftertaste knowing what I'm missing with my android phone. [^lgp500] The thing is slick. Every animation is buttery smooth and the browsers doesn't stutter at all when scrolling. 

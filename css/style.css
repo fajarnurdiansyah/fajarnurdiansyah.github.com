@@ -1,8 +1,9 @@
 body {
-   font: normal normal 1.2em 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+   font: normal normal 20px 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+   line-height: 1.4;
    color: #444;
    /*text-align: justify;*/
-   width: 680px;
+   width: 652px;
    margin: auto;
    padding-left:auto;
    padding-right:auto;
@@ -16,7 +17,7 @@ blockquote {
 }
 
 #posts sup{
-   font-size: 60%;
+   font-size: 50%;
 }
 
 .footnotes{
@@ -31,26 +32,30 @@ hr {
 }
 
 div.title {
-	padding-top: 20px;
+	font-size: 200%;
+	padding-top: 10px;
 	float: left;
-	font-weight:bold
+	color: #000;
+	/*font-weight:bold;*/
 }
 #subtitle{
-	float: right;
-	padding-top: 20px;
+	clear: left;
+	padding-top: 0px;
+	color: #000;
 }
 #posts{
 	clear: both;
-	padding-top: 20px;
+	padding-top: 50px;
 }
 
 .posttitle{
-	font-size: 180%;
+	font-size: 160%;
 	line-height: 1.1em;
+	font-color: #333;
 }
 
 .postcontent{	
-	margin-bottom: 2em;
+	margin-bottom: 3em;
 }
 
 a:link, .posttitle a:link{
@@ -60,7 +65,7 @@ a:link, .posttitle a:link{
 
 a:visited, .posttitle a:visited{
    text-decoration: none;
-   color: #444;
+   color: #333;
 }
 
 article a:link{
@@ -73,8 +78,24 @@ article a:visited{
    color: #444;
 }
 
-#posts img{
+.border {
 	display: block; 
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 1em;
+	border: 1px solid #EEE;
+	box-shadow: rgba(0, 0, 0, 0.0976563) 1px 1px 5px 0px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.0976563) 1px 1px 5px 0px;	
+	padding: 5px;
+	font-size: 75%;
+	width: auto;
+	text-align: center;	
+}
+
+.border  p{
+	margin: 0;
+}
+.inline {
+	display: inline;
+	float: right;
 }
