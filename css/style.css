@@ -106,14 +106,29 @@ a:hover, article a:hover, .posttitle a:hover{
 .border  p{
 	margin: 0;
 }
+
 .inline {
 	display: inline;
 	float: right;
 }
+
 .newer{
 	float: left;
 }
 
 .older{
 	float: right;
+}
+
+.archivedate{
+	display:block;float:left;clear:left;
+}
+
+.archivepost{
+	display:block;float:left;margin-left:15px;margin-bottom:7px;
+	width: 540px;
+}
+
+.archivepost h3{
+	margin: 0px;
 }
