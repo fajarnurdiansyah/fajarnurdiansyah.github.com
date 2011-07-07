@@ -12,6 +12,7 @@ future:      true
 lsi:         false
 pygments:    false
 markdown:    maruku
+paginate:    3
 permalink:   /:categories/:title
 
 maruku:

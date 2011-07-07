@@ -10,14 +10,15 @@ title: Fajar Nurdiansyah
 {% endfor %}
 
 <div class="paginator">
-  {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="older">older <span class="arrow">&#187;</span></a>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a href="/" class="newer"><span class="arrow">&#171;</span> newer</a>
-      {% else %}
-      <a href="/page{{paginator.previous_page}}" class="newer"><span class="arrow">&#171;</span> newer</a>
-    {% endif %}
-  {% endif %}
+	{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}
+			<a href="/" class="newer"><span class="arrow">&#171;</span> newer</a>
+		{% else %}
+			<a href="/page{{paginator.previous_page}}" class="newer"><span class="arrow">&#171;</span> newer</a>
+		{% endif %}
+	{% endif %}
+	{% if paginator.next_page %}
+		<a href="/page{{paginator.next_page}}" class="older">older <span class="arrow">&#187;</span></a>
+	{% endif %}
+  
 </div>

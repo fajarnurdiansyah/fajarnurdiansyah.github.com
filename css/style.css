@@ -110,3 +110,10 @@ a:hover, article a:hover, .posttitle a:hover{
 	display: inline;
 	float: right;
 }
+.newer{
+	float: left;
+}
+
+.older{
+	float: right;
+}
