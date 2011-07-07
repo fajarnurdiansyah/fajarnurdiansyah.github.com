@@ -2,6 +2,7 @@
 layout: post
 title: Spam on Gmail
 intro: Everybody hates spam.
+permalink: /2010/01/spam.html
 ---
 This whole time, I've been very careful with my email. I never gave it out
 easily, never register to any shady website, never displayed it in public

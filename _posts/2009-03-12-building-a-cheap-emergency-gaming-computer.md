@@ -2,6 +2,7 @@
 layout: post
 title: Building Cheap, Emergency Gaming Computer
 intro: Wasted more time shopping than building.
+permalink: /2009/03/building-cheap-emergency-gaming.html
 ---
 This post is a part of series post I write to cover my experience in building
 a cheap, emergency gaming computer.
