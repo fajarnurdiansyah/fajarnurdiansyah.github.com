@@ -2,9 +2,22 @@
 layout: default
 title: Fajar Nurdiansyah
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
     <div>
 		<div class="posttitle"><h1><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
-		<div class="postcontent"><article>{{ post.content }}<article></div>		
+		<div class="postcontent"><article>{{ post.content }}<article></div>
 	</div>
 {% endfor %}
+
+<div class="paginator">
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="older">older <span class="arrow">&#187;</span></a>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/" class="newer"><span class="arrow">&#171;</span> newer</a>
+      {% else %}
+      <a href="/page{{paginator.previous_page}}" class="newer"><span class="arrow">&#171;</span> newer</a>
+    {% endif %}
+  {% endif %}
+</div>

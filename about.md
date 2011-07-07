@@ -3,8 +3,8 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-## About me
+<div markdown="1" style="a:link{text-decoration:underline;}">
+# About
 
 Hello, my name is Fajar Nurdiansyah. 
 
@@ -18,7 +18,7 @@ You can also find me on [twitter], [flickr], and [facebook].
 
 ## About this blog
 
-This blog is a static html website generated using [jekyll]. Its hosted by the awesome [GitHub]. You can view the full [source code for this blog here].
+This blog is a static html website powered by[jekyll]. Hosted by the awesome [GitHub]. You can view the full [source code for this blog here].
 
 [flick]: http://flick.fajarnurdiansyah.com
 [twitter]: http://twitter.com/fajaronly
@@ -28,3 +28,4 @@ This blog is a static html website generated using [jekyll]. Its hosted by the a
 [jekyll]: http://jekyllrb.com
 [GitHub]: http://github.com
 [source code for this blog here]: https://github.com/fajarnurdiansyah/fajarnurdiansyah.github.com
+</div>
