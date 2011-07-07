@@ -8,7 +8,7 @@ permalink: /2010/09/buku-ini-aku-pinjam.html
 <div markdown="1" class="border">
 [![Buku Ini Aku Pinjam][6]][7]
 
-   [6]: //images1\-focus\-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&refresh=18000&no\_expand=1&rewriteMime=image%2F\*&url=http://farm5.static.flickr.com/4110/5017361322\_70fe35061f\_z.jpg (Buku Ini Aku Pinjam)
+   [6]: http://lh3.googleusercontent.com/-bbT8LStwBVo/ThWa7JXVbcI/AAAAAAAAB7g/Rz4QlcsgGew/s800/DSC_0139.jpg (Buku Ini Aku Pinjam)
    [7]: http://www.flickr.com/photos/fajarnurdiansyah/5017361322/
 
 Buku Ini Aku Pinjam.   

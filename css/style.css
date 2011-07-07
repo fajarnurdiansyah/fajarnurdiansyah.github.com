@@ -113,11 +113,11 @@ a:hover, article a:hover, .posttitle a:hover{
 }
 
 .newer{
-	float: left;
+	float: left; padding-bottom: 50px;
 }
 
 .older{
-	float: right;
+	float: right; padding-bottom: 50px;
 }
 
 .archivedate{

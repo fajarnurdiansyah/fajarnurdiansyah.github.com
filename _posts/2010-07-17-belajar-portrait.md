@@ -7,7 +7,7 @@ permalink: /2010/07/belajar-portrait.html
 <div markdown="1" class="border">
 [![Belajar Portrait][6]][7]
 
-   [6]: http://lh4.ggpht.com/_jwSLTQWHss4/TEEmsL0S-oI/AAAAAAAABTk/Se68C_JwydY/DSC_4771_thumb%5B2%5D.jpg?imgmax=800 (Belajar Portrait)
+   [6]: http://lh5.googleusercontent.com/--HQ0dmPbgXo/ThWU87hom4I/AAAAAAAAB0M/tVN2HK-n8wc/s800/DSC_4771.jpg (Belajar Portrait)
    [7]: http://lh3.ggpht.com/_jwSLTQWHss4/TEEmp7Y6d5I/AAAAAAAABTg/sCKusWcbjXg/s1600-h/DSC_4771%5B5%5D.jpg
 
 Model Mayhem Labuan Lalang
