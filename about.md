@@ -27,4 +27,4 @@ This blog is a static html website generated using [jekyll]. Its hosted by the a
 [fajar@fajarnurdiansyah.com]: mailto:fajar@fajarnurdiansyah.com
 [jekyll]: http://jekyllrb.com
 [GitHub]: http://github.com
-[source code for this blog here]: http://github.com/fajarnurdiansyah
+[source code for this blog here]: https://github.com/fajarnurdiansyah/fajarnurdiansyah.github.com
