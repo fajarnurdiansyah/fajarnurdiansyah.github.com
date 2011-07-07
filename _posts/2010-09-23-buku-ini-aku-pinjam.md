@@ -4,14 +4,18 @@ title: Buku Ini Aku Pinjam
 intro: One light source shoot.
 permalink: /2010/09/buku-ini-aku-pinjam.html
 ---
+
+<div markdown="1" class="border">
 [![Buku Ini Aku Pinjam][6]][7]
 
-   [6]: https://www-gm-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=gm&gadget=http%3A%2F%2Fwww.google.com%2Fig%2Fmodules%2Fgm%2Fphotos%2Fcard-flickr.xml/http://farm5.static.flickr.com/4110/5017361322_70fe35061f_z.jpg (Buku Ini Aku Pinjam)
+   [6]: //images1\-focus\-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&refresh=18000&no\_expand=1&rewriteMime=image%2F\*&url=http://farm5.static.flickr.com/4110/5017361322\_70fe35061f\_z.jpg (Buku Ini Aku Pinjam)
    [7]: http://www.flickr.com/photos/fajarnurdiansyah/5017361322/
 
-Buku Ini Aku Pinjam
+Buku Ini Aku Pinjam.   
 
-Nothing interesting lately, so I just took pictures of the mundane stuff in my
+</div>
+ 
+Nothing interesting lately, & so I just took pictures of the mundane stuff in my
 room.
 
   

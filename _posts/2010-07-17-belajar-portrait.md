@@ -4,12 +4,14 @@ title: Belajar Portrait
 intro: 50mm in action
 permalink: /2010/07/belajar-portrait.html
 ---
+<div markdown="1" class="border">
 [![Belajar Portrait][6]][7]
 
    [6]: http://lh4.ggpht.com/_jwSLTQWHss4/TEEmsL0S-oI/AAAAAAAABTk/Se68C_JwydY/DSC_4771_thumb%5B2%5D.jpg?imgmax=800 (Belajar Portrait)
    [7]: http://lh3.ggpht.com/_jwSLTQWHss4/TEEmp7Y6d5I/AAAAAAAABTg/sCKusWcbjXg/s1600-h/DSC_4771%5B5%5D.jpg
 
 Model Mayhem Labuan Lalang
+</div>
 
 Another black and white image for my blog new theme. This one was taken with
 my new AF Nikkor 50mm f/1.8D lens. I love the lens. Its sharp, fast, and very
