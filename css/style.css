@@ -132,3 +132,8 @@ a:hover, article a:hover, .posttitle a:hover{
 .archivepost h3{
 	margin: 0px;
 }
+
+.signoff a{
+	padding-top: 25px;
+	color: #444;	
+}

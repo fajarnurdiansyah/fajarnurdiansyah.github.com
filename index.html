@@ -5,7 +5,12 @@ title: Fajar Nurdiansyah
 {% for post in paginator.posts %}
     <div>
 		<div class="posttitle"><h1><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
-		<div class="postcontent"><article>{{ post.content }}<article></div>
+		<div class="postcontent">
+			<article>{{ post.content }}</article>
+			<div class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}">
+				<a href="{{post.url}}">&mdash;{{ post.date | date: " %d %B, %Y" }}</a>
+			</div>
+		</div>
 	</div>
 {% endfor %}
 

@@ -30,7 +30,12 @@
 	  <div id="posts">
 		<div>
 			<div class="posttitle"><h1><a href="{% if page.link %}{{page.link}}{% else %}{{page.url}}{% endif %}">{{ page.title }}</a></h1></div>
-			<div class="postcontent"><article>{{ content }}<article></div>		
+			<div class="postcontent">
+				<article>{{ content }}</article>
+				<div class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
+					<a href="{{page.url}}">&mdash;{{ page.date | date: " %d %B, %Y" }}</a>
+				</div>
+			</div>
 		</div>
 	  </div>
 	</div>
