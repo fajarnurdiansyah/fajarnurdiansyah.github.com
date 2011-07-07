@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-# About me
+## About me
 
-Hi! I'm Fajar Nurdiansyah. 
+Hello, my name is Fajar Nurdiansyah. 
 
 I'm a programmer, hobbyst photographer, open water diver, and a fast food eater.
 
 Most of my programming work are on boring corporate stuff, but I also like to create stuff on the weekend. Stuff like [flick].
+
+## Contact
 
 To contact me, email [fajar@fajarnurdiansyah.com]
 
