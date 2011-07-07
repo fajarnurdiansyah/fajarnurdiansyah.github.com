@@ -2,7 +2,6 @@
 layout: post
 title: Belajar Portrait
 intro: 50mm in action
-permalink: /2010/07/belajar-portrait.html
 ---
 <div markdown="1" class="border">
 [![Belajar Portrait][6]][7]

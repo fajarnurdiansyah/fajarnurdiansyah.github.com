@@ -6,3 +6,5 @@ ErrorDocument 500 /500.html
 {% for post in site.posts %}
   # {{ post.url }}
 {% endfor %}
+
+Redirect permanent /2010/07/belajar-portrait.html http://fajarnurdiansyah.com/belajar-portrait/
