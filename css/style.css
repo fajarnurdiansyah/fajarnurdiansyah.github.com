@@ -7,8 +7,7 @@ body {
 	margin: auto;
 	padding-left:auto;
 	padding-right:auto;	
-	text-rendering: optimizeLegibility;
-	
+	text-rendering: optimizeLegibility;	
 }
 body h1, body h2, body h3, body h4, body h5, body h6{
 	font-family: 'OFL Sorts Mill Goudy TT', arial, serif;
