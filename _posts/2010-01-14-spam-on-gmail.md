@@ -13,7 +13,6 @@ addresses like cute_babe@yahoo.com or neo_cool@hotmail.com kind of email
 (which looks cool back in 2000, the 'matrix' age). I love this email address
 and I don't want it to be ruined by the spam, so I take precaution when giving
 it out.
-
   
 Do you know that Gmail have this nice feature where you can have unlimited
 aliases for your email [address][6]?

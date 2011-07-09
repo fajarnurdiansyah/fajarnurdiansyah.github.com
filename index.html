@@ -3,7 +3,7 @@ layout: default
 title: Fajar Nurdiansyah
 ---
 {% for post in paginator.posts %}
-    <div>
+    <div> 
 		<div class="posttitle"><h1><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
 		<div class="postcontent">
 			<article>{{ post.content }}</article>

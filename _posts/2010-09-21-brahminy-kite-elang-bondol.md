@@ -12,7 +12,7 @@ permalink: /2010/09/brahminy-kite-elang-bondol.html
 
 Brahminy Kite - Elang Bondol
 </div>
-
+ 
 Named for the river Indus and distributed from India (where it is held sacred)
 to Australia. A bird of coastal areas and a scavenger, feeding mostly on
 carrion. Mews like a cat.

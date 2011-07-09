@@ -31,7 +31,7 @@ quickly grab my attention.
 
 Here's a couple review I've found on the processor.
 
-[techgage.com][10] review of E5200:
+[techgage.com][10] review of E5200: 
 
    [10]: http://techgage.com/article/intel_pentium_dual-core_e5200/
 

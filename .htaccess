@@ -7,4 +7,4 @@ ErrorDocument 500 /500.html
   # {{ post.url }}
 {% endfor %}
 
-Redirect permanent /2010/07/belajar-portrait.html http://fajarnurdiansyah.com/belajar-portrait/
+Redirect permanent /2010/07/belajar-portrait.html http://fajarnurdiansyah.com/belajar-portrait/ 

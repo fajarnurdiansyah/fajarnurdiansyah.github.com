@@ -12,5 +12,5 @@ permalink: /2010/09/sometime-i-think-life-is-like-lime.html
 
 Sometime I Think Life Is Like a Lime
 </div>
-
+ 
 \[a witty remarks goes here, or in your comments\]

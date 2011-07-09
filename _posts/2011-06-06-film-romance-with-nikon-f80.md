@@ -12,7 +12,7 @@ permalink: /2011/06/film-romance-with-nikon-f80.html
 
 Afternoon in Blue Lagoon. Nikon F80, Tokina 11-16mm, Kodak Colorplus 200
 </div>
-
+ 
 I've been playing with film camera since I bought an old Nikon F80 camera at a
 local online shop. I thought it would be a cheap and easy way to experience
 full frame photography. It turns out to be not cheap nor easy.

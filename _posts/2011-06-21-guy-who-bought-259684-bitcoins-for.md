@@ -19,4 +19,4 @@ side of story][8] protesting Mt Gox decision to rollback yesterday trades.
 
 The whole spectacle is rather amusing. They are learning about why money is
 handled the way it is. Looks like I'm not building bitcoin mining farm anytime
-soon.
+soon. 

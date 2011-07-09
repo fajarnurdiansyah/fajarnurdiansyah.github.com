@@ -17,7 +17,7 @@ Buku Ini Aku Pinjam.
  
 Nothing interesting lately, & so I just took pictures of the mundane stuff in my
 room.
-
+ 
   
 The book is "A Short History of Nearly Everything" by Bill Bryson. Its a
 science book - winner of the Aventis prize for science books 2004 - but Bill

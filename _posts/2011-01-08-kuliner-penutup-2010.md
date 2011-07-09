@@ -15,7 +15,7 @@ baru dibuka, sepertinya cabang dari [cwiemiemalang.com][6]. Descripsi di
 situsnya sendiri seperti ini:
 
    [6]: http://www.cwiemiemalang.com/
-
+ 
 > Cwie Mie adalah salah satu produk makanan yang aslinya memang dari Malang.
 Lihat saja dimana-mana, Cwie Mie Malang menjadi satu kesatuan tagline di rumah
 makan yang menjual Cwie Mie.

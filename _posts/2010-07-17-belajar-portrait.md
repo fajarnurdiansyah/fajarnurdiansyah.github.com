@@ -11,7 +11,7 @@ intro: 50mm in action
 
 Model Mayhem Labuan Lalang
 </div>
-
+ 
 Another black and white image for my blog new theme. This one was taken with
 my new AF Nikkor 50mm f/1.8D lens. I love the lens. Its sharp, fast, and very
 light. The only drawback is it won't autofocus on my camera body.

@@ -7,7 +7,7 @@ intro: Hunting with MTPC to Kutuh Village.
 ![morning harvest at kutuh village](/images/DSC_5774.jpg){:title="morning harvest at kutuh village"}   
 morning harvest at kutuh village
 </div>
-
+ 
 I Wayan Wirawan, has been a seaweed farmer for 10 years.
 
 He used to harvest the seaweed in 50 days cycle, but with current weather harvest time has not been very predictable.

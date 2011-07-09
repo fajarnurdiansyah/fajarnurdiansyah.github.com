@@ -23,4 +23,4 @@ PS: Yes, I do consider soap operas as the lowest form of acting. But they're fun
 
 PPS: I don't blame the actor/actress though, it's the director and the scriptwriter responsibilities :D
 
-PPPS: And yeah, don't forget the producer! Punjabis, I'm watching you!
+PPPS: And yeah, don't forget the producer! Punjabis, I'm watching you! 

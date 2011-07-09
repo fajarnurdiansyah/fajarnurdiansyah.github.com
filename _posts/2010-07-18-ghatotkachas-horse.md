@@ -9,7 +9,7 @@ permalink: /2010/07/ghatotkachas-horse.html
 
    [6]: http://lh4.googleusercontent.com/-VdKkXsHzm7g/ThWVA8u_PLI/AAAAAAAAB0Q/DvB8psVDeYY/s800/DSC_5425.jpg (Gatotkaca horse?)
    [7]: http://lh3.ggpht.com/_jwSLTQWHss4/TEMRQistXHI/AAAAAAAABTw/A61jwuU0wks/s1600-h/DSC_5425%5B4%5D.jpg
-
+ 
 That is not a foot and mouth disease infected horse
 </div>
 
