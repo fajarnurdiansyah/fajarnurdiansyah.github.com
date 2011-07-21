@@ -21,23 +21,23 @@
 		<div class="title">
 			<h1 style="margin-bottom:0px;"><a href="/">Fajar Nurdiansyah</a></h1>
 		</div>
-		<div id="subtitle">			
+		<div id="subtitle">
 			<a href="/about">about</a> | 
 			<a href="/archive">archive</a> | 
 			<a href="/links">links</a> | 
 			<a href="/feed">feed</a> 
 		</div>
-	  <div id="posts">
-		<div>
-			<div class="posttitle"><h1><a href="{% if page.link %}{{page.link}}{% else %}{{page.url}}{% endif %}">{{ page.title }}</a></h1></div>
-			<div class="postcontent">
-				<article>{{ content }}</article>
-				<div class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
-					<a href="{{page.url}}">&mdash;{{ page.date | date: " %d %B, %Y" }}</a>
+		<div id="posts">
+			<div>
+				<div class="posttitle"><h1><a href="{% if page.link %}{{page.link}}{% else %}{{page.url}}{% endif %}">{{ page.title }}</a></h1></div>
+				<div class="postcontent">
+					<article>{{ content }}</article>
+					<div class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
+						<a href="{{page.url}}">&mdash;{{ page.date | date: " %d %B, %Y" }}</a>
+					</div>
 				</div>
 			</div>
 		</div>
-	  </div>
 	</div>
 </body>
 </html>
