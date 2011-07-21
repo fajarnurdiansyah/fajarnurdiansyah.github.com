@@ -18,7 +18,6 @@ body h1, body h2, body h3, body h4, body h5, body h6{
 blockquote {
     border-left: solid 1px #aaa;
     padding: 0em 0em 0em 0.7em;
-    background-color: #FCFCFC;
     margin-left: 1em;
 	margin-right: 0em;
 }
