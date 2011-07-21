@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Can't Android Have A Smooth UI Animation?
-intro: This sucks.
+intro: Why it has to stutter, lag, choppy, unsmooth?
 permalink: /2011/06/why-cant-android-have-smooth-ui.html
 ---
 css: published/style.css
