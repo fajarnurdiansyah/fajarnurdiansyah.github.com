@@ -5,7 +5,7 @@ title: Hening di Mengening
 <div markdown="1" class="border">
 [![DSC_0284-Edit][6]][7]
 
-   [6]: http://lh5.ggpht.com/_jwSLTQWHss4/TD8Ql6uGAbI/AAAAAAAABTM/S-Qv-MqYMtA/DSC_0284-Edit%5B5%5D.jpg?imgmax=800 (Hening di Mengening)
+   [6]: https://lh5.googleusercontent.com/-LNlXFEZj0ks/TD8Ql6uGAbI/AAAAAAAABTM/tlrcc9mPcqI/s640/DSC_0284-Edit%25255B5%25255D.jpg (Hening di Mengening)
    [7]: http://www.flickr.com/photos/fajarnurdiansyah/4752305874/
 
 Hening di Mengening
