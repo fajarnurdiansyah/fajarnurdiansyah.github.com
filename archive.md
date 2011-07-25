@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Fajar Nurdiansyah
+permalink: /archive/
 ---
-<h1>Archive</h1>
+#Archive
+I don't really write much.
 {% for post in site.posts %}
     <div>		
 		<div>
