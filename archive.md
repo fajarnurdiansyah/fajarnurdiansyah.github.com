@@ -4,7 +4,7 @@ title: Fajar Nurdiansyah
 permalink: /archive/
 ---
 #Archive
-I don't really write much.
+I don't really write much, but for what it worth, here's the archive:
 {% for post in site.posts %}
 
 <div>		
