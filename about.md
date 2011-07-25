@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 <div markdown="1" style="a:link{text-decoration:underline;}">
 # About
