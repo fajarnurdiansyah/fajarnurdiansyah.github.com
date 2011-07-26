@@ -120,12 +120,12 @@ a:hover, article a:hover, .posttitle a:hover{
 }
 
 .archivedate{
-	display:block;float:left;clear:left;
+	display:block;float:left;clear:left;width:115px;
 }
 
 .archivepost{
 	display:block;float:left;margin-left:15px;margin-bottom:7px;
-	width: 540px;
+	width: 520px;
 }
 
 .archivepost h3{
