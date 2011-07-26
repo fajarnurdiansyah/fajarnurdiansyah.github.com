@@ -1,6 +1,6 @@
 body {
 	@import url(http://fonts.googleapis.com/css?family=Quattrocento|OFL+Sorts+Mill+Goudy+TT&v2);
-	font: normal normal 20px 'Palatino Linotype', Palatino, 'Goudy Bookletter 1911', Georgia, Utopia, serif;
+	font: normal normal 20px 'Palatino Linotype', Palatino, 'EB+Garamond', Georgia, Utopia, serif;
 	line-height: 1.4;
 	color: #444;
 	/*text-align: justify;*/
