@@ -2,7 +2,7 @@
 layout: post
 title: "Shit Photojournalists Like: Camera Bags"
 link: http://shitphotojournalistslike.tumblr.com/post/7003929254/camera-bags
-intro: I have three
+intro: You can never have too much
 date: 2011-07-28 12:30:46 
 ---
 > Ask any photojournalist about their bag(s), and their eyes will take on the far-off gleam of a parent describing the birth of their first child. Chances are the photoj in question will have one, two, or maybe even three bags to suit their needs. An outsider may be puzzled by the fiendish bag hoarder, but we know better. \[...\]
