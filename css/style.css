@@ -106,6 +106,10 @@ a:hover, article a:hover, .posttitle a:hover{
 	margin: 0;
 }
 
+.border  img{
+	max-width: 640px;
+}
+
 .inline {
 	display: inline;
 	float: right;
