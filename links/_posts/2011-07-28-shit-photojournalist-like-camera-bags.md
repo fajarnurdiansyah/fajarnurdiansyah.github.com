@@ -9,7 +9,7 @@ date: 2011-07-28 12:30:46
 >
 > Their names are so exciting that you can’t help but dream of them. The Speed Demon. The Slingshot. The Urban Disguise. With so many compartments and interchangeable partitions, they ooze pure sex appeal.
 
-I'm not a photojournalist, but he's talking about me. I'm guilty of owning three camera bags.
+I'm not a photojournalist, but I think he's talking about me. I'm guilty of owning three camera bags.
 
 Also:
 
