@@ -20,8 +20,7 @@ layout: nil
 		<link href="{% if post.link %}{{post.link}}{% else %}http://fajarnurdiansyah.com{{post.url}}{% endif %}"/>
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
 		<id>http://fajarnurdiansyah.com{{ post.id }}</id>
-		<content type="html">{{ post.content | xml_escape }}<p><a href="http://fajarnurdiansyah.com{{post.url}}">Permalink</a></p></content>
+		<content type="html">{{ post.content | xml_escape }}&lt;p&gt;&lt;a href='http://fajarnurdiansyah.com{{post.url | xml_escape}}'&gt;Permalink&lt;/a&gt;&lt;/p&gt;</content>
 	</entry>
-	{% endfor %}
-	
+	{% endfor %}	
 </feed>
