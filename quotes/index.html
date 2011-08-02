@@ -1,0 +1,16 @@
+---
+layout: default
+title: Fajar Nurdiansyah
+---
+{% for post in site.posts %}
+    {% if post.layout == 'quote' %}
+	<div>
+		<div class="postcontent">
+			{{ post.content }}
+			<div class="signoff" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+					<a href="{{post.url}}">&mdash;{{ post.date | date_to_long_string }}</a>
+			</div>
+		</div>		
+	</div>
+	{% endif %}
+{% endfor %}

@@ -22,7 +22,11 @@ You can also find me on [twitter], [flickr], and [facebook].
 
 I can't write.[^code] This blog is an attempt to fix that.
 
-The blog is a static html website powered by [jekyll], a simple, blog aware, static site generator.[^jekyll] Hosted by the awesome [GitHub], you can view the full [source code for this blog here].
+The blog is a static html website powered by [jekyll], a simple, blog aware, static site generator.[^jekyll] Modeled after tumblr, it has Link, Quote, and Photo post. I dont see how I will use Chat and Audio post. 
+
+Hosting is provided by the awesome [GitHub], you can view the full [source code for this blog here].
+
+
 
 [beautiful island]: http://wikitravel.org/en/Bali
 [Mitrais]: http://www.mitrais.com
