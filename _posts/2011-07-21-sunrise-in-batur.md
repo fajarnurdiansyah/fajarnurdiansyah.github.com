@@ -8,7 +8,7 @@ intro: When mountain meet sun
 The hunt for sunrise. Mount Batur summit, 2011.
 </div>
 
-You will be forgiven if you think that sunrise is nothing special. Afterall you can see them everywhere, everyday --- unless you live in Greenland. It all just seems so…normal. 
+The thing with sunrise is that they are nothing special. Afterall you can see them everywhere, everyday --- unless you live in Greenland. It all just seems so…normal. 
 
 Last week I went hiking to mount Batur and the sunrise was anything but normal. The way the sun peeks behind the clouds, with shining golden light clearing the mist down in the valley of kintamani, made me realize: sunrise is beautiful. Or is it Batur's sunrise?
 
