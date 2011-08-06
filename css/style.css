@@ -1,7 +1,8 @@
 body {
 	@import url(http://fonts.googleapis.com/css?family=Quattrocento|OFL+Sorts+Mill+Goudy+TT&v2);
-	font: normal normal 19px 'Quattrocento', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
-	line-height: 1.4;
+	font: normal normal 20px 'Lora', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+	line-height: 1.35;
+	letter-spacing: 0.02em;
 	color: #222;
 	/*text-align: justify;*/
 	width: 652px;
@@ -11,9 +12,12 @@ body {
 	text-rendering: optimizeLegibility;	
 }
 body h1, body h2, body h3, body h4, body h5, body h6{
-	font-family: 'OFL Sorts Mill Goudy TT', arial, serif;
+	font-family: 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, serif;
 	font-weight: normal;
-	text-shadow: #DDD 2px 2px 2px;
+	text-shadow: #DDD 2px 2px 2px;	
+}
+article p {
+   font-size: 90%;
 }
 
 blockquote {
@@ -74,6 +78,7 @@ a:visited, .posttitle a:visited{
    color: #333;
 }
 
+
 article a:link{
    text-decoration: underline;
    color: #333;
@@ -83,6 +88,8 @@ article a:visited{
    text-decoration: underline;
    color: #444;
 }
+
+
 
 a:hover, article a:hover, .posttitle a:hover{
 	text-decoration:underline;
