@@ -16,7 +16,7 @@ body h1, body h2, body h3, body h4, body h5, body h6{
 	font-weight: normal;
 	text-shadow: #DDD 2px 2px 2px;	
 }
-article p {
+article p, article li {
    font-size: 90%;
 }
 
