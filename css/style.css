@@ -14,7 +14,7 @@ body {
 body h1, body h2, body h3, body h4, body h5, body h6{
 	font-family: 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, serif;
 	font-weight: normal;
-	text-shadow: #DDD 2px 2px 2px;	
+	text-shadow: #ccc 2px 2px 2px;
 }
 article p, article li, #subtitle {
    font-size: 90%;
