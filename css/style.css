@@ -1,6 +1,6 @@
 body {
 	@import url(http://fonts.googleapis.com/css?family=Quattrocento|OFL+Sorts+Mill+Goudy+TT&v2);
-	font: normal normal 20px 'Lora', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+	font: normal normal 20px 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
 	line-height: 1.35;
 	letter-spacing: 0.02em;
 	color: #222;
@@ -11,13 +11,20 @@ body {
 	padding-right:auto;	
 	text-rendering: optimizeLegibility;	
 }
-body h1, body h2, body h3, body h4, body h5, body h6{
-	font-family: 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, serif;
+body h1, body h2, body h3, body h4, body h5{	
 	font-weight: normal;
 	text-shadow: #ccc 2px 2px 2px;
 }
+body h1{	font-size: 43px;}
+body h2{	font-size: 33px;}
+body h3{	font-size: 26px;}
+body h4{	font-size: 20px;}
+body h5{	font-size: 18px;}
+body h6{	font-size: 14px; font-weight: normal;}
+
 article p, article li, #subtitle {
    font-size: 90%;
+   text-align: justify;
 }
 
 blockquote {
@@ -28,7 +35,8 @@ blockquote {
 }
 
 #posts sup{
-   font-size: 50%;
+   font-size: 60%;
+   font-family: sans-serif;
 }
 
 .footnotes{
@@ -62,6 +70,14 @@ div.title {
 .posttitle{	
 	line-height: 1.2;
 	font-color: #333;
+}
+
+.posttitle h6{
+	margin-top: 0;
+}
+.posttitle h1{
+	margin-bottom: 0;
+	margin-top: 0;
 }
 
 .postcontent{	
@@ -112,6 +128,7 @@ a:hover, article a:hover, .posttitle a:hover{
 
 .border  p{
 	margin: 0;
+	text-align: center;
 }
 
 .border  img{
@@ -121,6 +138,12 @@ a:hover, article a:hover, .posttitle a:hover{
 .inline {
 	display: inline;
 	float: right;
+}
+
+.right{
+	display: inline;
+	float: right;
+	margin: .5em;
 }
 
 .newer{
@@ -148,3 +171,4 @@ a:hover, article a:hover, .posttitle a:hover{
 	padding-top: 25px;
 	color: #444;	
 }
+.center {text-align: center;}
