@@ -172,3 +172,15 @@ a:hover, article a:hover, .posttitle a:hover{
 	color: #444;	
 }
 .center {text-align: center;}
+
+.btm1{
+	width: 500px;
+	margin: auto;
+	border-bottom: solid 1px #ddd;
+}
+.btm2{
+	width: 300px;
+	margin: auto;
+	padding-top: 7px;
+	border-bottom: solid 1px #ddd;
+}

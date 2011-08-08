@@ -15,7 +15,7 @@ title: Fajar Nurdiansyah
 		<div class="posttitle"><h1><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
 		<div class="postcontent">
 			<article>{{ post.content }}</article>
-			<div class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}">
+			<div class="signoff" datetime="{{ post.date | date: '%Y-%m-%d' }}">
 				<a href="{{post.url}}">∞ {{ post.date | date_to_long_string }}</a>
 			</div>
 		</div>
