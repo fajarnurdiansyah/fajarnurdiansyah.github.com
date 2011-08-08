@@ -26,4 +26,4 @@ getting a precise focus in manual mode is much more easier.
   
 Oh, the portrait model? He was the parking officer in Labuan Lalang, the port
 to Menjangan. I had a light chat with him while waiting for my friends to sort
-out out transport.
+out our transport.

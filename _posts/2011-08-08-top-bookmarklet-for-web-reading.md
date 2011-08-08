@@ -6,7 +6,7 @@ published: true
 ---
 doc_prefix: topbookmarkletforwebreading
 
-Try install a time tracking software on your computer. Usually a small app running in the background that record what application you are spending your time with.[^time tracking] I bet the top, most used application will a web browser.
+Try install a time tracking software on your computer. Usually a small app running in the background that record what application you are spending your time with.[^time tracking] I bet the top, most used application will be a web browser.
 
 [![XKCD comic][1]{:title="xkcd: Mac/PC" .right}][2]
 [1]: http://imgs.xkcd.com/comics/mac_pc.png
@@ -54,4 +54,4 @@ I wrote this one myself. If you are currently opening a flickr page, this will t
 [^time tracking]: I tried [wakoopa](http://social.wakoopa.com) and [rescue time](http://www.rescuetime.com). Both have free version and highly recommended.
 [^vs]: I track time on both office and home computer, so it only make sense if Visual studio only got a third of my time in a day.
 [^ad]: I'm not saying publisher are wrong by placing ad on their content, it just this business model is not helping anyone.
-[^agnostic]: Mobile browser on smartphone need a little bit of adjustment to make it work like their desktop counterpart.
+[^agnostic]: Mobile browser on smartphone needs a little bit of adjustment to make it work like their desktop counterpart.
