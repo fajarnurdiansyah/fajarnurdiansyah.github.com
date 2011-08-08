@@ -15,7 +15,7 @@ body h1, body h2, body h3, body h4, body h5{
 	font-weight: normal;
 	text-shadow: #ccc 2px 2px 2px;
 }
-body h1{	font-size: 43px;}
+body h1{	font-size: 43px; line-height: 1.2;}
 body h2{	font-size: 33px;}
 body h3{	font-size: 26px;}
 body h4{	font-size: 20px;}
