@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Snap - Sunday Morning Run
+title: Daily Snap &mdash; Sunday Morning Run
 ---
 <div markdown="1" class="border">
 [![Sunday Morning Run][6]][7]

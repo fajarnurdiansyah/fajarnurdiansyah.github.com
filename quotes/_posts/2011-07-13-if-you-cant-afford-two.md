@@ -1,7 +1,7 @@
 ---
 layout: quote
 title: "Quote of the Day: If You Can't Afford Two"
-intro: If you can't dont
+intro: If you can't dont 
 ---
 
 # "If you can't afford to buy two of it, then you can't afford it"

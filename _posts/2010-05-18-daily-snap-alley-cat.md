@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Snap - Alley Cat
+title: Daily Snap &mdash; Alley Cat
 ---
 <div markdown="1" class="border">
 [![Alley cat][6]][7]

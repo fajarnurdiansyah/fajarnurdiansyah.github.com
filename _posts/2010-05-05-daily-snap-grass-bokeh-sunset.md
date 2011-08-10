@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Snap — Grass Bokeh Sunset
+title: "Daily Snap &mdash; Grass Bokeh Sunset"
 ---
 <div markdown="1" class="border">
 [![Grass bokeh][6]][7]

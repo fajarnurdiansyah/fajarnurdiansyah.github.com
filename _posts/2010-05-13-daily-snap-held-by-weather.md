@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Snap - Held By The Weather
+title: Daily Snap &mdash; Held By The Weather
 ---
 <div markdown="1" class="border">
 

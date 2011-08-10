@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I’ve Been Good 
+title: "I've Been Good"
 intro: dog photo. 
 permalink: /2010/07/ive-been-good.html
 ---

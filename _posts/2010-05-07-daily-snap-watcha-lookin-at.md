@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Snap - Watcha Lookin' at?"
+title: "Daily Snap &mdash; Watcha Lookin' at?"
 ---
 <div markdown="1" class="border">
 [![Whatcha lookin' at?][6]][7]
