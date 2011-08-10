@@ -36,15 +36,15 @@
 					<h1 class="center"><a href="{% if page.link %}{{page.link}}{% else %}{{page.url}}{% endif %}">{{ page.title }}</a></h1>
 					<h6 class="center">
 						– 
-						<a href="/">Fajar Nurdiansyah</a>, 
-						<a class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}" href="{{page.url}}">{{ page.date | date: " %d %B %Y" }}</a> 
+						<a href="/">Fajar Nurdiansyah</a>						
 						– 
 					</h6>
 				</div>
 				<div class="postcontent">
 					<article>{{ content }}</article>
-					<div class="btm1"></div>
-					<div class="btm2"></div>					
+					<div class="btm1 center">
+						<a class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}" href="{{page.url}}">{{ page.date | date: " %d %B %Y" }}</a>
+					</div>
 				</div>
 				
 			</div>

@@ -5,18 +5,18 @@ title: Fajar Nurdiansyah
 {% for post in paginator.posts %}
     <div>
 		{% if post.layout == 'quote' %}
-		<div class="postcontent">
-			{{ post.content }}
-			<div class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}">
-					<a href="{{post.url}}">∞ {{ post.date | date_to_long_string }}</a>
+		<div class="postcontent quote">
+			{{ post.content }}			
+			<div class="btm1">
+				<a class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}" href="{{post.url}}">{{ post.date | date: " %d %B %Y" }}</a>
 			</div>
 		</div>
 		{% else %}		
 		<div class="posttitle"><h1><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
 		<div class="postcontent">
 			<article>{{ post.content }}</article>
-			<div class="signoff" datetime="{{ post.date | date: '%Y-%m-%d' }}">
-				<a href="{{post.url}}">∞ {{ post.date | date_to_long_string }}</a>
+			<div class="btm1">
+				<a class="signoff" datetime="{{ post.date | date: "%Y-%m-%d" }}" href="{{post.url}}">{{ post.date | date: " %d %B %Y" }}</a>
 			</div>
 		</div>
 		{% endif %}

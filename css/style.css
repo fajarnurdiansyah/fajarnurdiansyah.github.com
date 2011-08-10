@@ -174,13 +174,36 @@ a:hover, article a:hover, .posttitle a:hover{
 .center {text-align: center;}
 
 .btm1{
-	width: 500px;
 	margin: auto;
-	border-bottom: solid 1px #ddd;
+	border-bottom: solid 1px #e1e1e1;	
 }
+
+.btm1 a {
+	position: relative;
+	margin: auto;
+	top: 11px;
+	left: 15px;
+	background-color: white;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.center a {
+	left: 0;
+}
+
 .btm2{
 	width: 300px;
 	margin: auto;
 	padding-top: 7px;
 	border-bottom: solid 1px #ddd;
+	display: none;
+}
+.quote h1{
+	text-indent: -19px;
+}
+.quote h3 {
+	float: right;
+	position: relative;
+	bottom: 33px;
 }
