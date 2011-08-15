@@ -1,6 +1,6 @@
 ---
 layout: quote
-title: Quote Of The Day &mdash; Mark Suster
+title: "Quote Of The Day: Mark Suster"
 permalink: /2011/06/quote-of-day-mark-suster.html
 ---
 # "The problem with success is that it's often disguised as hard work."
