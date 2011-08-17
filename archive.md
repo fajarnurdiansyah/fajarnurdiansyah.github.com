@@ -9,7 +9,7 @@ I don't really write much, but for what it's worth, here's the archive:
 
 <div>		
 	<div>
-	{% if post.link == null %}
+	{% if post.link == null and post.layout != 'quote'%}
 		<div class="archivedate">
 			{{post.date | date: "%Y-%m-%d"}} 
 		</div>
