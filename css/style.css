@@ -1,7 +1,7 @@
 body {
-	font: normal normal 20px Georgia, Utopia, serif;
+	font: normal normal 20px 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
 	line-height: 1.4;
-	letter-spacing: 0.03em;
+	letter-spacing: 0.02em;
 	color: #222;
 	/*text-align: justify;*/
 	width: 652px;
