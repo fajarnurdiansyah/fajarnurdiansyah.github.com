@@ -1,8 +1,7 @@
 body {
-	@import url(http://fonts.googleapis.com/css?family=Quattrocento|OFL+Sorts+Mill+Goudy+TT&v2);
-	font: normal normal 20px 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
-	line-height: 1.35;
-	letter-spacing: 0.02em;
+	font: normal normal 20px Georgia, Utopia, serif;
+	line-height: 1.4;
+	letter-spacing: 0.03em;
 	color: #222;
 	/*text-align: justify;*/
 	width: 652px;
@@ -12,19 +11,24 @@ body {
 	text-rendering: optimizeLegibility;	
 }
 body h1, body h2, body h3, body h4, body h5{	
+	font: normal normal 20px 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
 	font-weight: normal;
+	text-shadow: #ddd 2px 2px 1px;
+}
+body h1{	
+	font-size: 42px; 
+	line-height: 1.2; 
+	font-family: 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif; 
 	text-shadow: #ccc 2px 2px 2px;
 }
-body h1{	font-size: 43px; line-height: 1.2;}
-body h2{	font-size: 33px;}
+body h2{	font-size: 32px;}
 body h3{	font-size: 26px;}
 body h4{	font-size: 20px;}
 body h5{	font-size: 18px;}
 body h6{	font-size: 14px; font-weight: normal;}
 
 article p, article li, #subtitle {
-   font-size: 90%;
-   text-align: justify;
+   font-size: 90%;   
 }
 
 blockquote {
@@ -200,7 +204,8 @@ a:hover, article a:hover, .posttitle a:hover{
 	display: none;
 }
 .quote h1{
-	text-indent: -19px;
+	text-indent: -20px;
+	font-style: bold;
 }
 .quote h3 {
 	float: right;
