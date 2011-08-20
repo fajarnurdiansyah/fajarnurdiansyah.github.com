@@ -1,7 +1,7 @@
 body {
-	font: normal normal 20px "Crimson Text", Georgia, 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
-	line-height: 1.3;
-	letter-spacing: 0.01em;
+	font: normal normal 20px 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+	line-height: 1.4;
+	letter-spacing: 0.02em;
 	color: #222;
 	/*text-align: justify;*/
 	width: 652px;
@@ -11,12 +11,14 @@ body {
 	text-rendering: optimizeLegibility;	
 }
 body h1, body h2, body h3, body h4, body h5{	
+	font: normal normal 20px 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
 	font-weight: normal;
 	text-shadow: #ddd 2px 2px 1px;
 }
 body h1{	
 	font-size: 42px; 
-	line-height: 1.1; 
+	line-height: 1.2; 
+	font-family: 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif; 
 	text-shadow: #ccc 2px 2px 2px;
 }
 body h2{	font-size: 32px;}
@@ -26,7 +28,7 @@ body h5{	font-size: 18px;}
 body h6{	font-size: 14px; font-weight: normal;}
 
 article p, article li, #subtitle {
-   font-size: 95%;   
+   font-size: 90%;   
 }
 
 blockquote {
@@ -37,9 +39,8 @@ blockquote {
 }
 
 #posts sup{
-	font-size: 60%;
-	/*bottom: 5px;
-	position: relative;   */
+   font-size: 60%;
+   font-family: sans-serif;
 }
 
 .footnotes{
@@ -203,7 +204,7 @@ a:hover, article a:hover, .posttitle a:hover{
 	display: none;
 }
 .quote h1{
-	text-indent: -0.3em;
+	text-indent: -20px;
 	font-style: bold;
 }
 .quote h3 {
