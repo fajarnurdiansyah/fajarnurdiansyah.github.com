@@ -1,6 +1,6 @@
 ---
-layout: simple
+layout: quote
 title: no track
 ---
 #"You're dead to me"
----google analytics.
+## --google analytics.
