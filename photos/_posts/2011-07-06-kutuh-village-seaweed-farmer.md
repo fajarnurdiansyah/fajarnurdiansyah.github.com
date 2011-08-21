@@ -7,6 +7,8 @@ permalink: /kutuh-village-seaweed-farmer/
 ![morning harvest at kutuh village](/images/DSC_5774.jpg "morning harvest at kutuh village")
 {:title="morning harvest at kutuh village" .shadow900}
 
+morning harvest at kutuh village 
+{: .caption}
  
 I Wayan Wirawan, has been a seaweed farmer for 10 years.
 

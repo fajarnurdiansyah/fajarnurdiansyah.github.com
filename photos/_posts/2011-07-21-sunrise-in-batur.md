@@ -1,12 +1,15 @@
 ---
 layout: photo
 title: Sunrise in Batur
-intro: When mountain meet sun
+intro: The hunt for sunrise. Mount Batur summit, 2011.
 permalink: /sunrise-in-batur/
 ---
 
 ![the hunt for sunrise](/images/DSC_6416.jpg)
 {:title="The hunt for sunrise. Mount Batur summit, 2011." .shadow900}
+
+The hunt for sunrise. Mount Batur summit, 2011.
+{: .caption}
 
 The thing with sunrise is that they are nothing special. Afterall you can see them everywhere, everyday --- unless you live in Greenland. It all just seems so…normal. 
 

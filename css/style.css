@@ -15,6 +15,7 @@ body.photo{
 	width: 900px;
 }
 
+
 body p.shadow900{	
 	margin-left: -125px;
 	display: block;
@@ -110,6 +111,14 @@ div.title {
 	padding-top: 0px;	
 	color: #000;
 }
+.caption{
+    font-size: 75%;
+    margin-top: -20px;
+    position: relative;
+    text-align: center;
+    top: -20px;
+	margin-bottom: -20px;
+}
 #posts{
 	clear: both;
 	padding-top: 50px;
@@ -130,6 +139,10 @@ div.title {
 
 .postcontent{	
 	margin-bottom: 4em;
+}
+
+body.photo .postcontent {
+    margin-bottom: 0em;
 }
 
 a:link, .posttitle a:link{
@@ -255,4 +268,12 @@ a:hover, article a:hover, .posttitle a:hover{
 	float: right;
 	position: relative;
 	bottom: 33px;
+}
+.twocolumn {
+	column-count: 2;
+	column-gap: 2em;
+	-moz-column-count: 2;
+	-moz-column-gap: 2em;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 2em;
 }
