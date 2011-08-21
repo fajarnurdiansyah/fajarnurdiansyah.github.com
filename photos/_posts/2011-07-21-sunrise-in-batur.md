@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: photo
 title: Sunrise in Batur
 intro: When mountain meet sun
+permalink: /sunrise-in-batur/
 ---
-<div markdown="1" class="border">
-![the hunt for sunrise](http://lh5.googleusercontent.com/-Y5GSiuBpeck/TibttK8iI3I/AAAAAAAACe0/8-LPFgNrTcM/s640/DSC_6416.jpg){:title="morning harvest at kutuh village"}   
-The hunt for sunrise. Mount Batur summit, 2011.
-</div>
+
+![the hunt for sunrise](/images/DSC_6416.jpg)
+{:title="The hunt for sunrise. Mount Batur summit, 2011." .shadow900}
 
 The thing with sunrise is that they are nothing special. Afterall you can see them everywhere, everyday --- unless you live in Greenland. It all just seems so…normal. 
 

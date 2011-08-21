@@ -10,6 +10,51 @@ body {
 	padding-right:auto;	
 	text-rendering: optimizeLegibility;	
 }
+
+body.photo{
+	width: 900px;
+}
+
+body p.shadow900{	
+	margin-left: -125px;
+	display: block;
+	position: relative;
+}
+
+body.photo p.shadow900{	
+	margin-left: 0px;
+}
+
+.shadow900:after{	
+	background: url("/images/shadow900.png") no-repeat scroll 0 0 transparent;
+    bottom: 6px;
+    content: "";
+    display: block;
+    height: 40px;
+	margin-bottom: -40px;
+    position: relative;
+	width: 900px;
+}
+
+body.photo p.shadow900:after{	
+	bottom: 5px;
+}
+
+body.photo img.shadow900{	
+	margin-left: 0px;
+}
+
+body img.sdh900{
+	margin-top: -6px;
+	margin-left: -125px;
+}
+
+body.photo img.sdh900{
+	margin-top: -5px;
+	margin-left: 0px;
+}
+
+
 body h1, body h2, body h3, body h4, body h5{	
 	font-weight: normal;
 	text-shadow: #ddd 2px 2px 1px;
@@ -23,7 +68,7 @@ body h2{	font-size: 32px;}
 body h3{	font-size: 26px;}
 body h4{	font-size: 20px;}
 body h5{	font-size: 18px;}
-body h6{	font-size: 14px; font-weight: normal;}
+body h6{	font-size: 14px; font-weight: normal;margin-bottom: 15px;}
 
 article p, article li, #subtitle {
    font-size: 95%;   
@@ -62,7 +107,7 @@ div.title {
 }
 #subtitle{
 	clear: left;
-	padding-top: 0px;
+	padding-top: 0px;	
 	color: #000;
 }
 #posts{
