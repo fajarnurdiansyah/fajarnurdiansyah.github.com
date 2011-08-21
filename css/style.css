@@ -37,10 +37,6 @@ body.photo p.shadow900{
 	width: 900px;
 }
 
-body.photo p.shadow900:after{	
-	bottom: 5px;
-}
-
 body.photo img.shadow900{	
 	margin-left: 0px;
 }

@@ -7,9 +7,9 @@ permalink: /archive/
 I don't really write much, but for what it's worth, here's the archive:
 {% for post in site.posts %}
 
-<div>		
+<div>
 	<div>
-	{% if post.link == null and post.layout != 'quote'%}
+	{% if post.link == null and post.layout != 'quote' and post.layout != 'photo'%}
 		<div class="archivedate">
 			{{post.date | date: "%Y-%m-%d"}} 
 		</div>
@@ -22,7 +22,7 @@ I don't really write much, but for what it's worth, here's the archive:
 			{% endif %}
 		</div>
 	{% endif %}
-	</div>		
+	</div>
 </div>
 
 {% endfor %}
