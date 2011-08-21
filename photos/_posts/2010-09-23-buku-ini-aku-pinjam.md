@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: photo
 title: Buku Ini Aku Pinjam
 intro: One light source shoot.
 permalink: /2010/09/buku-ini-aku-pinjam.html
 ---
 
-![Buku Ini Aku Pinjam](http://lh3.googleusercontent.com/-bbT8LStwBVo/ThWa7JXVbcI/AAAAAAAAB7g/Rz4QlcsgGew/s800/DSC_0139.jpg "Buku Ini Aku Pinjam")
-{: .shadow640}
+![Buku Ini Aku Pinjam](/images/DSC_0139.jpg "Buku Ini Aku Pinjam")
+{: .shadow900}
 
 Buku Ini Aku Pinjam.
 {: .caption}
