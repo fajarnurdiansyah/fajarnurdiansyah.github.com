@@ -37,6 +37,17 @@ body.photo p.shadow900{
 	width: 900px;
 }
 
+.shadow640:after{	
+	background: url("/images/Shadow640.png") no-repeat scroll 0 0 transparent;
+    bottom: 6px;
+    content: "";
+    display: block;
+    height: 9px;
+	margin-bottom: -9px;
+    position: relative;
+	width: 900px;
+}
+
 body.photo img.shadow900{	
 	margin-left: 0px;
 }
