@@ -26,7 +26,7 @@ body.photo p.shadow900{
 }
 
 .shadow900:after{	
-	background: url("/images/shadow900.png") no-repeat scroll 0 0 transparent;
+	background: url("/images/Shadow900.png") no-repeat scroll 0 0 transparent;
     bottom: 6px;
     content: "";
     display: block;
