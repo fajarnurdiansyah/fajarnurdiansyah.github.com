@@ -35,6 +35,7 @@ body.photo p.shadow900{
 	margin-bottom: -40px;
     position: relative;
 	width: 900px;
+	z-index: -1;
 }
 
 .shadow640:after{	
@@ -46,6 +47,7 @@ body.photo p.shadow900{
 	margin-bottom: -9px;
     position: relative;
 	width: 900px;
+	z-index: -1;
 }
 
 body.photo img.shadow900{	
