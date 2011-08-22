@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: photo
 title: "Daily Snap &mdash; Grass Bokeh Sunset"
+permalink: /daily-snap-grass-bokeh-sunset/
 ---
-<div markdown="1" class="border">
 [![Grass bokeh][6]][7]
+{: .shadow900}
 
-   [6]: http://lh6.ggpht.com/_jwSLTQWHss4/S-BDtrDbjyI/AAAAAAAABKk/pAMlgsU3TRA/DSC_7903_thumb3.jpg?imgmax=800 (Grass bokeh)
+   [6]: https://lh3.googleusercontent.com/-QfLfVE2I2YI/TlIoxM1UCRI/AAAAAAAACq4/1hpG0MtNX8c/s0/DSC_7903.jpg (Grass bokeh)
    [7]: http://www.flickr.com/photos/fajarnurdiansyah/4578680554/
 
 Grass Bokeh Sunset or is it Sunset Bokeh Grass?
-</div>
+{: .caption}
 
 This picture was taken with Jpeg Basic Small setting on my camera - the lowest
 quality setting. I was playing with time-lapse feature the other day and

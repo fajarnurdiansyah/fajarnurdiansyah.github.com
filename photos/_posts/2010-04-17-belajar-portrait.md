@@ -1,16 +1,18 @@
 ---
-layout: post
+layout: photo
 title: Belajar Portrait
 intro: 50mm in action
+permalink: /belajar-portrait/
 ---
-<div markdown="1" class="border">
-[![Belajar Portrait][6]][7]
 
-   [6]: http://lh5.googleusercontent.com/--HQ0dmPbgXo/ThWU87hom4I/AAAAAAAAB0M/tVN2HK-n8wc/s800/DSC_4771.jpg (Belajar Portrait)
+[![Belajar Portrait][6]][7]
+{: .shadow900}
+
+   [6]: http://lh5.googleusercontent.com/-VaGOqnJeKm4/TlJFCnhUXGI/AAAAAAAACsA/h1fPRxnOVZY/s0/DSC_4771.jpg (Belajar Portrait)
    [7]: http://lh3.ggpht.com/_jwSLTQWHss4/TEEmp7Y6d5I/AAAAAAAABTg/sCKusWcbjXg/s1600-h/DSC_4771%5B5%5D.jpg
 
 Model Mayhem Labuan Lalang
-</div>
+{: .caption}
  
 Another black and white image for my blog new theme. This one was taken with
 my new AF Nikkor 50mm f/1.8D lens. I love the lens. Its sharp, fast, and very

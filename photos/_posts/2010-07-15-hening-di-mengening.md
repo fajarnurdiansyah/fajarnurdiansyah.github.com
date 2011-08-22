@@ -1,15 +1,17 @@
 ---
-layout: post
+layout: photo
 title: Hening di Mengening
+permalink: /hening-di-mengening/
+intro: Black and white simplicity
 ---
-<div markdown="1" class="border">
 [![DSC_0284-Edit][6]][7]
+{: .shadow900}
 
-   [6]: https://lh5.googleusercontent.com/-LNlXFEZj0ks/TD8Ql6uGAbI/AAAAAAAABTM/tlrcc9mPcqI/s640/DSC_0284-Edit%25255B5%25255D.jpg (Hening di Mengening)
+   [6]: https://lh4.googleusercontent.com/-fqM-BofFjsw/TlIoyl-HYqI/AAAAAAAACq8/qOIuloVfIIw/s0/DSC_0284-Edit.jpg (Hening di Mengening)
    [7]: http://www.flickr.com/photos/fajarnurdiansyah/4752305874/
 
 Hening di Mengening
-</div>
+{: .caption}
 
 I just changed the blog theme yesterday and I think this image will fit nicely
 with the theme. Whaddayathink?
