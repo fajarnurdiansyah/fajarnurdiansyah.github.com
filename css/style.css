@@ -225,12 +225,19 @@ a:hover, article a:hover, .posttitle a:hover{
 }
 
 .archivedate{
-	display:block;float:left;clear:left;width:115px;
+	display: block;
+	width: 115px;
+	position: relative;
+	right: 135px;
+	top: 31px;
+	text-align: right;
+	color: #666;
 }
 
 .archivepost{
-	display:block;float:left;margin-left:15px;margin-bottom:7px;
-	width: 520px;
+	display: block;
+	width: 650px;
+	margin-top: -15px;
 }
 
 .archivepost h3{
@@ -285,4 +292,14 @@ a:hover, article a:hover, .posttitle a:hover{
 	-moz-column-gap: 2em;
 	-webkit-column-count: 2;
 	-webkit-column-gap: 2em;
+}
+
+.archivelist{
+	list-style-type: none;
+	padding-left: 0px;
+	font-size: 95%;
+}
+
+.hidden{
+	display: none;
 }

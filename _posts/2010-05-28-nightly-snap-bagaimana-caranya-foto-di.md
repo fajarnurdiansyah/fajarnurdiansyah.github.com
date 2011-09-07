@@ -2,6 +2,7 @@
 layout: post
 title: Nightly Snap &mdash; Bagaimana Caranya Foto Di Pantai Kuta
 permalink: /2010/05/nightly-snap-bagaimana-caranya-foto-di.html
+intro: Night photography in Kuta beach.
 ---
 Kalau pernah ke pantai Kuta pasti tau bagaimana ramainya pantai Kuta siang
 hari. Jadi gimana caranya biar bisa foto-foto di pantai Kuta tapi tanpa turis
