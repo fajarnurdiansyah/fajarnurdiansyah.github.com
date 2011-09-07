@@ -300,6 +300,10 @@ a:hover, article a:hover, .posttitle a:hover{
 	font-size: 95%;
 }
 
+.archivelist h2{
+	margin-bottom: 5px;
+}
+
 .hidden{
 	display: none;
 }
