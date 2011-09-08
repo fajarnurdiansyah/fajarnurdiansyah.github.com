@@ -1,6 +1,6 @@
 # Hello World!
 
-This is the source code for my blog jekyll powered blog http://fajarnurdiansyah.com
+This is the source code for my jekyll powered blog http://fajarnurdiansyah.com
 
 This is my third blog, previously I'm on wordpress and blogger. 
 Here's hoping the third blog is the charm.
