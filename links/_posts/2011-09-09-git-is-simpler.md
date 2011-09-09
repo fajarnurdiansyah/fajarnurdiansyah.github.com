@@ -3,6 +3,7 @@ layout: post
 title: "Git Is Simpler Than You Think"
 link: http://nfarina.com/post/9868516270/git-is-simpler
 intro: Nick Farina explains git.
+date: 2011-09-09 17:58:00
 ---
 If you want to grok git, this piece by Nick Farina is very nice: 
 
