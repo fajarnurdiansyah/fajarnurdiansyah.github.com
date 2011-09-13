@@ -74,7 +74,7 @@ body h1{
 	line-height: 1.1; 
 	text-shadow: #ccc 2px 2px 2px;
 }
-body h2{	font-size: 32px;}
+body h2{	font-size: 31px;}
 body h3{	font-size: 26px;}
 body h4{	font-size: 20px;}
 body h5{	font-size: 18px;}
@@ -283,7 +283,11 @@ a:hover, article a:hover, .posttitle a:hover{
 .quote h3 {
 	float: right;
 	position: relative;
-	bottom: 32px;
+	bottom: 35px;
+}
+
+.quote div.signoff{
+	font-size: 17px;
 }
 .twocolumn {
 	column-count: 2;
