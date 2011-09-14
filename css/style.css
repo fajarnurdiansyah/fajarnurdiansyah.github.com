@@ -311,3 +311,18 @@ a:hover, article a:hover, .posttitle a:hover{
 .hidden{
 	display: none;
 }
+
+#dsq-subscribe, #dsq-global-toolbar, #dsq-account-dropdown, .dsq-trackback-url, .dsq-brlink, #dsq-content h3, #dsq-sort-by{
+display: none;
+}
+#disqus_thread #dsq-content { font-size: 19px; }
+.dsq-comment-header, .dsq-comment-text, #comment{
+font-size: 19px;
+}
+
+.dsq-comment-header{
+	background: none;
+	border-radius: none;
+}
+
+#dsq-content #dsq-comments .dsq-comment-message { font-size: 12px; }
