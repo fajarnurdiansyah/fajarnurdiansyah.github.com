@@ -81,7 +81,8 @@ body h5{	font-size: 18px;}
 body h6{	font-size: 14px; font-weight: normal;margin-bottom: 15px;}
 
 article p, article li, #subtitle {
-   font-size: 95%;   
+   	font-size: 95%;
+	margin-bottom: 5px;
 }
 
 blockquote {
@@ -121,11 +122,10 @@ div.title {
 	color: #000;
 }
 .caption{
-    font-size: 75%;
-    margin-top: -20px;
-    position: relative;
-    text-align: center;
-    top: -20px;
+	font-size: 75%;
+	position: relative;
+	text-align: center;
+	top: -20px;
 	margin-bottom: -20px;
 }
 #posts{
@@ -248,7 +248,11 @@ a:hover, article a:hover, .posttitle a:hover{
 	padding-top: 25px;
 	color: #444;	
 }
-.center {text-align: center;}
+.center {
+	text-align: center;
+	display: block;
+	margin: auto;
+}
 
 .btm1{
 	margin: auto;
@@ -326,3 +330,5 @@ font-size: 19px;
 }
 
 #dsq-content #dsq-comments .dsq-comment-message { font-size: 12px; }
+
+#disqus_thread{margin-top: 50px;}
