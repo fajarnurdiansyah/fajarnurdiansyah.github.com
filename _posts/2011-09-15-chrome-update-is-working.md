@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Chrome Updates is Working"
-link: http://www.kendoui.com/download.aspx
 intro: Forget version number. Let it be a well oiled machine.
 date: 2011-09-15 10:25:00
 ---
