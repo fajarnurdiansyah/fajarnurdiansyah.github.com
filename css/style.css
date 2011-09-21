@@ -58,7 +58,9 @@ body img.sdh900{
 	margin-top: -6px;
 	margin-left: -125px;
 }
-
+a img{
+	border: none;
+}
 body.photo img.sdh900{
 	margin-top: -5px;
 	margin-left: 0px;
@@ -332,3 +334,40 @@ font-size: 19px;
 #dsq-content #dsq-comments .dsq-comment-message { font-size: 12px; }
 
 #disqus_thread{margin-top: 50px;}
+
+pre {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color #BBBBBB;
+    border-left: 4px solid #BBBBBB;
+    border-right: 4px solid #BBBBBB;
+    border-style: none solid;
+    border-width: 0 4px;
+    font-size: 12px;
+    margin: 0 0 30px;
+    padding: 2px 0 2px 15px;
+}
+
+
+#examples (line 136)
+code, pre, tt {
+    font-family: Monaco,Consolas,"Lucida Console",monospace;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 18px;
+}
+#examples (line 121)
+xmp, pre, plaintext {
+    display: block;
+    font-family: -moz-fixed;
+    margin: 1em 0;
+    white-space: pre;
+}
+
+code, pre, tt {
+    font-family: Monaco,Consolas,"Lucida Console",monospace;
+}
+
