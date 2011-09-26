@@ -2,7 +2,8 @@
 layout: photo
 title: "An Offering to the Heaven"
 intro: Canang sari, a Balinese unique daily offering. 
-date: 2011-09-12 18:43:00
+date: 2011-09-28 18:43:00
+published: false
 ---
 
 ![canang](/images/58570011.jpg "A gift to heaven")

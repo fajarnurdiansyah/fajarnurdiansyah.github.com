@@ -2,7 +2,7 @@
 layout: photo
 title: "Pupuan's Terasering Subak"
 intro: Landscape photography
-date: 2011-09-24 18:31:00
+date: 2011-09-26 19:56:00
 ---
 
 ![Pupuan Paddy Field](/images/DSC_7947-Edit.jpg)
