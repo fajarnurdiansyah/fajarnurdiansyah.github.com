@@ -3,6 +3,7 @@ layout: photo
 title: Buku Ini Aku Pinjam
 intro: One light source shoot.
 permalink: /2010/09/buku-ini-aku-pinjam.html
+comment: true
 ---
 
 ![Buku Ini Aku Pinjam](/images/DSC_0139.jpg "Buku Ini Aku Pinjam")

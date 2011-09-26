@@ -58,7 +58,9 @@ body img.sdh900{
 	margin-top: -6px;
 	margin-left: -125px;
 }
-
+a img{
+	border: none;
+}
 body.photo img.sdh900{
 	margin-top: -5px;
 	margin-left: 0px;
@@ -74,14 +76,15 @@ body h1{
 	line-height: 1.1; 
 	text-shadow: #ccc 2px 2px 2px;
 }
-body h2{	font-size: 32px;}
+body h2{	font-size: 31px;}
 body h3{	font-size: 26px;}
 body h4{	font-size: 20px;}
 body h5{	font-size: 18px;}
 body h6{	font-size: 14px; font-weight: normal;margin-bottom: 15px;}
 
 article p, article li, #subtitle {
-   font-size: 95%;   
+   	font-size: 95%;
+	margin-bottom: 5px;
 }
 
 blockquote {
@@ -121,11 +124,10 @@ div.title {
 	color: #000;
 }
 .caption{
-    font-size: 75%;
-    margin-top: -20px;
-    position: relative;
-    text-align: center;
-    top: -20px;
+	font-size: 75%;
+	position: relative;
+	text-align: center;
+	top: -20px;
 	margin-bottom: -20px;
 }
 #posts{
@@ -248,7 +250,11 @@ a:hover, article a:hover, .posttitle a:hover{
 	padding-top: 25px;
 	color: #444;	
 }
-.center {text-align: center;}
+.center {
+	text-align: center;
+	display: block;
+	margin: auto;
+}
 
 .btm1{
 	margin: auto;
@@ -258,7 +264,7 @@ a:hover, article a:hover, .posttitle a:hover{
 .btm1 a {
 	position: relative;
 	margin: auto;
-	top: 11px;
+	top: 10px;
 	left: 15px;
 	background-color: white;
 	padding: 5px;
@@ -283,7 +289,11 @@ a:hover, article a:hover, .posttitle a:hover{
 .quote h3 {
 	float: right;
 	position: relative;
-	bottom: 33px;
+	bottom: 35px;
+}
+
+.quote div.signoff{
+	font-size: 17px;
 }
 .twocolumn {
 	column-count: 2;
@@ -307,3 +317,57 @@ a:hover, article a:hover, .posttitle a:hover{
 .hidden{
 	display: none;
 }
+
+#dsq-subscribe, #dsq-global-toolbar, #dsq-account-dropdown, .dsq-trackback-url, .dsq-brlink, #dsq-content h3, #dsq-sort-by{
+display: none;
+}
+#disqus_thread #dsq-content { font-size: 19px; }
+.dsq-comment-header, .dsq-comment-text, #comment{
+font-size: 19px;
+}
+
+.dsq-comment-header{
+	background: none;
+	border-radius: none;
+}
+
+#dsq-content #dsq-comments .dsq-comment-message { font-size: 12px; }
+
+#disqus_thread{margin-top: 50px;}
+
+pre {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color #BBBBBB;
+    border-left: 4px solid #BBBBBB;
+    border-right: 4px solid #BBBBBB;
+    border-style: none solid;
+    border-width: 0 4px;
+    font-size: 12px;
+    margin: 0 0 30px;
+    padding: 2px 0 2px 15px;
+}
+
+
+#examples (line 136)
+code, pre, tt {
+    font-family: Monaco,Consolas,"Lucida Console",monospace;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 18px;
+}
+#examples (line 121)
+xmp, pre, plaintext {
+    display: block;
+    font-family: -moz-fixed;
+    margin: 1em 0;
+    white-space: pre;
+}
+
+code, pre, tt {
+    font-family: Monaco,Consolas,"Lucida Console",monospace;
+}
+
