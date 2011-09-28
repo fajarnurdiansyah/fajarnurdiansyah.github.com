@@ -8,9 +8,13 @@ css: published/style.css
 title: Project Eden
 doc_prefix: projecteden
  
-There's a new startup accelerator in Jakarta called [Project Eden]:
+There's a new startup accelerator in Jakarta called [Project Eden][]:
 
-> We are a pre seed investment company designed to enable great people to launch great ideas. We are experienced technology and investment   entrepreneurs with passion to support Indonesia local start-up ecosystem. Our start-up and support process accelerate the route from planning,     beta, monetization plan to sustainable success.
+> We are a pre seed investment company designed to enable great people to 
+> launch great ideas. We are experienced technology and investment 
+> entrepreneurs with passion to support Indonesia local start-up ecosystem. 
+> Our start-up and support process accelerate the route from planning, beta, 
+> monetization plan to sustainable success.
 >
 > We are completely transparent and totally committed to helping your startup succeed. To help you get there, we offer:
 > 
@@ -35,7 +39,10 @@ There's a new startup accelerator in Jakarta called [Project Eden]:
 > *   **Insightful mentors.**   
 >     Startup will have access to network of our mentors and guess mentors from various field ranging from technical, design, UX, marketing, financial and distribution
 
-Great news, but without knowing how much is this small equity they are asking, we can't really know if this is a great deal. For comparison, ycombinator usually ask 2-10%. I guess we will found out after their [first event] in 9 July.
+Great news, but without knowing how much is this small equity they are asking, 
+we can't really know if this is a great deal. For comparison, ycombinator 
+usually ask 2-10%. I guess we will found out after their [first event][] in 9 
+July.
 
 [Project Eden]: http://eden.co.id
 [they have to offer]: http://eden.co.id/#workspace

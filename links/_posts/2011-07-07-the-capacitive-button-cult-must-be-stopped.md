@@ -6,4 +6,8 @@ link: http://ignorethecode.net/blog/2011/07/04/the_capacitive_button_cult_must_b
 ---
 Lukas Mathis on capacitive buttons:
 
-> I think phones have capacitive buttons for the same reason laptops have reflective screens, and TVs in stores have their brightness and contrast turned all the way up. It looks really cool when you see it in a store, and you don't notice how screwed up it really is until after you've already bought it. 
+> I think phones have capacitive buttons for the same reason laptops have 
+> reflective screens, and TVs in stores have their brightness and contrast 
+> turned all the way up. It looks really cool when you see it in a store, and 
+> you don't notice how screwed up it really is until after you've already 
+> bought it. 
