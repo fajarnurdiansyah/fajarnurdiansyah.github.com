@@ -7,7 +7,7 @@ intro: Free raw codec from Microsoft
 doc_prefix: mscameracodecpack
 
 If you want to see the thumbnail of the RAW (NEF, CR2) files from your DSLR 
-[^standardviewer][], the only choice was to install FastPictureViewer codec. 
+[^standardviewer], the only choice was to install FastPictureViewer codec. 
 
 They [discontinued][] the free version of their RAW images codec but don't 
 worry, Microsoft step up to the plate and released their own [codec pack][].
