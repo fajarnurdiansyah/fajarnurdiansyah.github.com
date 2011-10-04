@@ -7,21 +7,17 @@ permalink: /resume/
 <article>
 
 # Fajar Nurdiansyah
-Jl. Taman Griya V No. 4
-Tuban Kuta Bali   
-+628123897533 (Mobile)    
-fajar.nurdiansyah@gmail.com
 
 ## Executive Summary
 I am a passionate programmer and a tech enthusiast. New technology and 
-platform always fascinate me. I'm looking for a challenging work opportunity 
-to realise my potential.
+platform always fascinate me. I'm always looking for a challenging work 
+opportunity to realise my potential.
 
 ## Education 
     
 **Institut Teknologi Sepuluh Nopember**, Software Engineering    
 2003 - 2008    
-ITS is a very prestigious, top 5 university in Indonesia.
+ITS is a prestigious, top 5 university in Indonesia.
 
 
 ## Work Experience
@@ -54,13 +50,10 @@ Programming Specialties:
 5. SQL Server Reporting Service
 6. Crystal Report
 7. Phython - Google App Engine
-	LANGUAGES
-	Spoken\: Bahasa Indonesia,English
-Written\: Bahasa Indonesia,English
 
 ## Professional Certification
 MCTS\: SQL Server 2008, Business Intelligence Development and Maintenance
-Microsoft , 2011
+Microsoft, 2011
 
 
 

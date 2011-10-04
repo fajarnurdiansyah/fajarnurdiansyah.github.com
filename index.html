@@ -12,7 +12,7 @@ title: Fajar Nurdiansyah
 			</div>
 		</div>
 		{% else %}		
-		<div class="posttitle"><h1><a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
+		<div class="posttitle {% if post.link %}link{% endif %}"><h1>{% if post.link %} →{% endif %}<a href="{% if post.link %}{{post.link}}{% else %}{{post.url}}{% endif %}">{{ post.title }}</a></h1></div>
 		<div class="postcontent">
 			<article>{{ post.content }}</article>
 			<div class="btm1">

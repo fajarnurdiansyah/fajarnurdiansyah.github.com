@@ -286,6 +286,9 @@ a:hover, article a:hover, .posttitle a:hover{
 	text-indent: -0.3em;
 	font-style: bold;
 }
+.link h1{
+	text-indent: -31px;
+}
 .quote h3 {
 	float: right;
 	position: relative;
