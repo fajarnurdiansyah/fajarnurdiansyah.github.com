@@ -5,7 +5,7 @@ link: http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/
 intro: Unlimited private Git repos!
 ---
 
-Git users now have a choice of using Github for public projects (a la Twitter) 
+Git users now have the choice of using Github for public projects (a la Twitter) 
 and Bitbucket for private projects (Google Plus). I think that is how most 
 people are going to use it.
 
