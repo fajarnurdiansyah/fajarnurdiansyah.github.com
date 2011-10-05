@@ -82,7 +82,7 @@ task :newpost, [:type, :title] do |t, args|
     end
     if type == "quote"
       post.puts "# \"Quote here\""
-      post.puts "### -- [QuoteAuthor][author]"
+      post.puts "### -- [#{title}][author]"
       post.puts ""
       post.puts "[author]: http://author.com/"
     end
