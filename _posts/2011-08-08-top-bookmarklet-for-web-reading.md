@@ -8,7 +8,7 @@ doc_prefix: topbookmarkletforwebreading
 
 Try install a time tracking software on your computer. Usually a small app running in the background that record what application you are spending your time with.[^time tracking] I bet the top, most used application will be a web browser.
 
-[![XKCD comic][1]{:title="xkcd: Mac/PC" .right}][2]
+[![XKCD comic][1]{:title="xkcd: Mac/PC" .right .corps}][2]
 [1]: http://imgs.xkcd.com/comics/mac_pc.png
 [2]: http://xkcd.com/934/
 

@@ -25,7 +25,7 @@ quickly grab my attention.
    [7]: http://www.newegg.com/Product/Product.aspx?Item=N82E16819103300&Tpk=Athlon64%20X2%207750 (NewEgg Spec)
    [8]: http://www.newegg.com/Product/Product.aspx?Item=N82E16819116072 (NewEgg Specification)
 
-![][9]{:title="e5200" .inline}
+![][9]{:title="e5200" .inline .corps}
 
    [9]: http://docs.google.com/File?id=dgk6cm8n_10fm9d6kc3_b
 

@@ -1,5 +1,5 @@
 body {
-	font: normal normal 20px "Crimson Text", Georgia, 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
+	font: normal normal 19px "Crimson Text", Georgia, 'OFL Sorts Mill Goudy TT', 'Palatino Linotype', Palatino, Georgia, Utopia, serif;
 	line-height: 1.3;
 	letter-spacing: 0.01em;
 	color: #222;
@@ -9,6 +9,7 @@ body {
 	padding-left:auto;
 	padding-right:auto;	
 	text-rendering: optimizeLegibility;	
+	background: url("/images/white_texture.png"); 
 }
 
 body.photo{
@@ -83,7 +84,6 @@ body h5{	font-size: 18px;}
 body h6{	font-size: 14px; font-weight: normal;margin-bottom: 15px;}
 
 article p, article li, #subtitle {
-   	font-size: 95%;
 	margin-bottom: 5px;
 }
 
@@ -250,6 +250,17 @@ a:hover, article a:hover, .posttitle a:hover{
 	padding-top: 25px;
 	color: #444;	
 }
+
+.btm1 a.signoff{
+	background-color: #FAFAFA;
+	/*border: 1px solid #CCCCCC;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0 10px 15px #CCCCCC;*/
+	max-width: 30em;
+	padding: 3px;
+	background: url("/images/white_texture.png");
+}
+
 .center {
 	text-align: center;
 	display: block;
@@ -373,4 +384,15 @@ xmp, pre, plaintext {
 code, pre, tt {
     font-family: Monaco,Consolas,"Lucida Console",monospace;
 }
+
+.corps{
+    background-color: #FAFAFA;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 10px 15px #CCCCCC;
+    max-width: 30em;
+    padding: 0.5em;
+    margin: 3px;
+}
+
 
