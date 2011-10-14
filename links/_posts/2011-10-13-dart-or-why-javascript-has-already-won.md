@@ -10,4 +10,4 @@ Peter-Paul Koch:
 
 > JavaScript is **already there**. On a couple of billion devices.
 
-I agree with him, there's little else to say.
+I agree with him, there's little else to say. But as they say, it's essential to keep those people *who know* a thing can't be done from bothering the people *who are doing* it.
