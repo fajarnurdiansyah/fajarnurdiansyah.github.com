@@ -6,7 +6,7 @@ date: 2011-09-26 19:56:00
 ---
 
 ![Pupuan Paddy Field](/images/DSC_7947-Edit.jpg)
-{:title="Pupuan paddy field panorama" .shadow900}
+{:title="If you squint real hard, you can see my friend Rido and Ludovicka walking on the ridge of both sides" .shadow900}
 
 Pupuan paddy field panorama, September 2011
 {: .caption}
