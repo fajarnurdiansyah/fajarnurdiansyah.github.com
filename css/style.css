@@ -9,7 +9,7 @@ body {
 	padding-left:auto;
 	padding-right:auto;	
 	text-rendering: optimizeLegibility;	
-	background: url("/images/white_texture.png"); 
+	/*background: url("/images/white_texture.png"); */
 }
 
 body.photo{
@@ -258,7 +258,7 @@ a:hover, article a:hover, .posttitle a:hover{
 	box-shadow: 0 10px 15px #CCCCCC;*/
 	max-width: 30em;
 	padding: 3px;
-	background: url("/images/white_texture.png");
+	/*background: url("/images/white_texture.png");*/
 }
 
 .center {
@@ -298,7 +298,8 @@ a:hover, article a:hover, .posttitle a:hover{
 	font-style: bold;
 }
 .link h1{
-	text-indent: -31px;
+	text-indent: -27px;
+	font-size: 31px;
 }
 .quote h3 {
 	float: right;
@@ -390,9 +391,15 @@ code, pre, tt {
     border: 1px solid #CCCCCC;
     border-radius: 3px 3px 3px 3px;
     box-shadow: 0 10px 15px #CCCCCC;
-    max-width: 30em;
     padding: 0.5em;
     margin: 3px;
+    max-width: 640px;
+}
+blockquote .corps{
+    max-width: 598px;
 }
 
+.gist .gist-file .gist-meta {
+    font-size: 12px !important;
+}
 
