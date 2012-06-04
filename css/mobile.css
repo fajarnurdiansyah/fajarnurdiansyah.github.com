@@ -1,0 +1,75 @@
+﻿/************************************************************************************
+smaller than 980
+*************************************************************************************/
+@media screen and (max-width: 980px)
+{
+
+    /* pagewrap */
+    .page
+    {
+        width: 100%;
+    }
+}
+
+/************************************************************************************
+smaller than 560
+*************************************************************************************/
+@media screen and (max-width: 670px)
+{
+
+    /* disable webkit text size adjust (for iPhone) */
+    html
+    {
+        -webkit-text-size-adjust: none;
+    }
+
+    body
+    {
+        width: 92%;
+	margin: 15px;
+    }
+
+    body h1 {
+	font-size: 36px;
+    }
+    .link h1 {
+         font-size: 28px;
+        text-indent: -21px;
+    }    
+    blockquote, .footnotes, .quote, #subtitle, .posttitle {
+        margin-right: 5px;
+    }
+
+    .shadow900 img {
+        width: 92%;
+	margin-left: 15%;
+    }
+    .shadow900:after {   
+        margin-left: 15%;
+        width: 92%;
+    }    
+}
+
+@media screen and (max-device-width: 480px)
+{
+    body
+    {
+        width: 480px;
+	margin: 10px;
+    }
+    .site{
+	margin: 15px;
+    }
+    .page
+    {
+        max-width: 480px;
+    }
+    #siteRecycle
+    {
+        max-width: 280px;
+    }
+    input.textEntry
+    {
+        width: 230px;
+    }
+}

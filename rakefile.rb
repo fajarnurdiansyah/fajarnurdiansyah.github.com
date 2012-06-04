@@ -34,6 +34,11 @@ task :preview do
   [jekyllPid, compassPid, rackupPid].each { |pid| Process.wait(pid) }
 end
 
+desc "clean the vim temporary files"
+task :clean do
+  puts "cleaning the vim temporary files"
+end
+
 # usage rake newpost[type,my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
 desc "Begin a new post in #{source_dir}/#{posts_dir}"
 task :newpost, [:type, :title] do |t, args|
