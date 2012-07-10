@@ -333,6 +333,7 @@ a:hover, article a:hover, .posttitle a:hover{
 	margin: 30px;
 	max-width: 240px;
 	border: 1px;
+	float: left;
 }
 
 .archivephoto img{
@@ -415,4 +416,10 @@ blockquote .corps{
 
 .photoarchive{
     width: 900px;
+    text-align: center;
 }
+.photoarchive .title{
+    width: 100%;
+}
+
+
