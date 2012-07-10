@@ -2,6 +2,7 @@
 layout: photo
 title: Menunggu Senin
 permalink: /menunggu-senin/
+thumbnail: /images/thumbs/DSC_3450.jpg
 ---
 [![Still Waiting][6]][7]
 {: .shadow900}

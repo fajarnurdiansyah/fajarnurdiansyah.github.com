@@ -3,6 +3,7 @@ layout: photo
 title: "I've Been Good"
 intro: dog photo. 
 permalink: /2010/07/ive-been-good.html
+thumbnail: /images/thumbs/DSC_3450.jpg
 ---
 [![I've been good][6]][7]
 {: .shadow900}

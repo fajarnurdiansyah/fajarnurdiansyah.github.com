@@ -3,6 +3,7 @@ layout: photo
 title: Sunrise in Batur
 intro: The hunt for sunrise. Mount Batur summit, 2011.
 permalink: /sunrise-in-batur/
+thumbnail: /images/thumbs/DSC_6416.jpg
 ---
 
 ![the hunt for sunrise](/images/DSC_6416.jpg)

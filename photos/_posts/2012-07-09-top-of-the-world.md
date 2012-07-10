@@ -3,6 +3,7 @@ layout: photo
 title: "Top of the World"
 date: 2012-07-09 13:19
 comments: false
+thumbnail: /images/thumbs/DSC_6589.jpg
 intro: 
 ---
 ![image](/images/DSC_6589.jpg)

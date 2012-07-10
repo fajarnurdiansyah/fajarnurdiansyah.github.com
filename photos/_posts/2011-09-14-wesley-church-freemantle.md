@@ -2,6 +2,7 @@
 layout: photo
 title: "Wesley Church Freemantle"
 intro: Architectural photography
+thumbnail: /images/thumbs/DSC_5255.jpg
 date: 2011-09-14 18:31:00
 ---
 

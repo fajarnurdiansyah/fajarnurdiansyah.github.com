@@ -2,6 +2,7 @@
 layout: photo
 title: "Morning in Muara Angke"
 date: 2011-12-27 17:08
+thumbnail: /images/thumbs/DSC_0072.jpg
 comments: false
 intro: Not quite the sunrise you expect
 ---

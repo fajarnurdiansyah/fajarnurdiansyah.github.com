@@ -2,6 +2,7 @@
 layout: photo
 title: "My Father's Camera"
 intro: Oldies never die
+thumbnail: /images/thumbs/DSC_7190.jpg
 date: 2011-09-09 18:31:00
 ---
 

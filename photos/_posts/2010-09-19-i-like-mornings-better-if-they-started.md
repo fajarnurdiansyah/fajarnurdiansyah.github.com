@@ -3,6 +3,7 @@ layout: photo
 title: I'd Like Mornings Better If They Started Later 
 intro: Aren't we all...
 permalink: /2010/09/i-like-mornings-better-if-they-started.html
+thumbnail: /images/thumbs/DSC_8542-Edit.jpg
 ---
 
 [![I'd like mornings better if they started later][6]][7]

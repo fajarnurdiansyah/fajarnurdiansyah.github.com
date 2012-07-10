@@ -3,6 +3,7 @@ layout: photo
 title: Ghatotkacha's Horse
 intro: Prancing
 permalink: /2010/07/ghatotkachas-horse.html
+thumbnail: /images/thumbs/DSC_5425.jpg
 ---
 [![DSC_5425][6]][7]
 {: .shadow900}

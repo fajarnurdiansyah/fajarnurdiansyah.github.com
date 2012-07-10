@@ -3,6 +3,7 @@ layout: photo
 title: Sometime I Think Life Is Like a Lime
 intro: Asemm
 permalink: /2010/09/sometime-i-think-life-is-like-lime.html
+thumbnail: /images/thumbs/DSC_2264.jpg
 ---
 
 [![Sometime I Think Life Is Like a Lime][6]][7]

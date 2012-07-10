@@ -3,6 +3,7 @@ layout: photo
 title: Kutuh Village Seaweed Farmer
 intro: Hunting with MTPC to Kutuh Village.
 permalink: /kutuh-village-seaweed-farmer/
+thumbnail: /images/thumbs/DSC_5774.jpg
 ---
 ![morning harvest at kutuh village](/images/DSC_5774.jpg "morning harvest at kutuh village")
 {:title="All the flare because I never remember to use the lens hood" .shadow900}

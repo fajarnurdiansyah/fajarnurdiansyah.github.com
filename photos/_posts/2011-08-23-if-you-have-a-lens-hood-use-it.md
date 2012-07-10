@@ -2,6 +2,7 @@
 layout: photo
 title: "If You Have a Lens Hood, Use It"
 intro: Testing The New Photo Layout
+thumbnail: /images/thumbs/58570032.jpg
 ---
 
 ![the hunt for sunrise](/images/58570032.jpg "Introducing the D90")

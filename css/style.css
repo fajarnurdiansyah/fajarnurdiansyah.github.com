@@ -329,6 +329,16 @@ a:hover, article a:hover, .posttitle a:hover{
 	margin-bottom: 5px;
 }
 
+.archivephoto{
+	margin: 30px;
+	max-width: 240px;
+	border: 1px;
+}
+
+.archivephoto img{
+	max-width: 240px;
+}
+
 .hidden{
 	display: none;
 }
@@ -403,3 +413,6 @@ blockquote .corps{
     font-size: 12px !important;
 }
 
+.photoarchive{
+    width: 900px;
+}

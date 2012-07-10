@@ -2,6 +2,7 @@
 layout: photo
 title: "Pupuan's Terasering Subak"
 intro: Landscape photography
+thumbnail: /images/thumbs/DSC_7947-Edit.jpg
 date: 2011-09-26 19:56:00
 ---
 

@@ -3,6 +3,7 @@ layout: photo
 title: Hening di Mengening
 permalink: /hening-di-mengening/
 intro: Black and white simplicity
+thumbnail: /images/thumbs/DSC_0284-Edit.jpg
 ---
 [![DSC_0284-Edit][6]][7]
 {: .shadow900}

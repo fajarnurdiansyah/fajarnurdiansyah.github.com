@@ -3,6 +3,7 @@ layout: photo
 title: Belajar Portrait
 intro: 50mm in action
 permalink: /belajar-portrait/
+thumbnail: /images/thumbs/DSC_4771.jpg
 ---
 
 [![Belajar Portrait][6]][7]
