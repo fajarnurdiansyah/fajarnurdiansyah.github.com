@@ -421,5 +421,8 @@ blockquote .corps{
 .photoarchive .title{
     width: 100%;
 }
+.photoarchive h2{
+    clear: both;
+}
 
 
