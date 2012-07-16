@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "An iPad Lovers Take on the Nexus 7"
+title: "An iPad Lover's Take on the Nexus 7"
 date: 2012-07-16 20:18
 comments: false
 link: http://techcrunch.com/2012/07/15/omg-he-likes-it-he-really-likes-it/ 
