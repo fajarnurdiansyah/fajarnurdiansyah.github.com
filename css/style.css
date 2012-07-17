@@ -27,28 +27,40 @@ body.photo p.shadow900{
 	margin-left: 0px;
 }
 
-.shadow900:after{	
-	background: url("/images/Shadow900.png") no-repeat scroll 0 0 transparent;
+.shadow900:after {
+    background: url("/images/Shadow900.png") no-repeat scroll 0 0 transparent;
     bottom: 6px;
     content: "";
     display: block;
     height: 40px;
-	margin-bottom: -40px;
+    margin-bottom: -40px;
     position: relative;
-	width: 900px;
-	z-index: -1;
+    width: 900px;
+    z-index: -1;
 }
 
-.shadow640:after{	
-	background: url("/images/Shadow640.png") no-repeat scroll 0 0 transparent;
+.shadow640:after {
+    background: url("/images/Shadow640.png") no-repeat scroll 0 0 transparent;
     bottom: 6px;
     content: "";
     display: block;
     height: 9px;
-	margin-bottom: -9px;
+    margin-bottom: -9px;
     position: relative;
-	width: 900px;
-	z-index: -1;
+    width: 900px;
+    z-index: -1;
+}
+
+.shadow240:after {
+    background: url("/images/Shadow240.png") no-repeat scroll 0 0 transparent;
+    bottom: 6px;
+    content: "";
+    display: block;
+    height: 15px;
+    margin-bottom: -15px;
+    position: relative;
+    width: 240px;
+    z-index: -1;
 }
 
 body.photo img.shadow900{	
