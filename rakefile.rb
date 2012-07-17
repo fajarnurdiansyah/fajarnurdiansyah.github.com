@@ -72,6 +72,9 @@ task :newpost, [:type, :title] do |t, args|
     else
       post.puts "title: \"#{title.gsub(/&/,'&amp;').titlecase}\""
     end
+    if type == "photo"
+      post.puts "thumbnail: "
+    end
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: false"
     if type == "link"
