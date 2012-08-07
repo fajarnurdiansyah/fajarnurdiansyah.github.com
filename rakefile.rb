@@ -36,7 +36,10 @@ end
 
 desc "clean the vim temporary files"
 task :clean do
+  require "FileUtils"
+  vimCache = File.join("**", "*~")
   puts "cleaning the vim temporary files"
+  FileUtils.rm Dir.glob(vimCache)
 end
 
 # usage rake newpost[type,my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
