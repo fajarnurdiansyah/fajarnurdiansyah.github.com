@@ -11,7 +11,7 @@ body {
 	text-rendering: optimizeLegibility;	
 }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, .footnotes, .btm1, .title, .subtitle, .gist, .border, ul {
+h1, h2, h3, h4, h5, h6, p, blockquote, .footnotes, .posttitle, .btm1, .title, .subtitle, .gist, .border, ul {
 	padding: 0 15px;
 	width: 100%;
 	max-width: 652px;	
@@ -39,11 +39,6 @@ img {
 	max-width: 100%;
 }
 
-body.photo{
-	width: 900px;
-}
-
-
 body p.shadow900{	
 	/*margin-left: -125px;*/
 	padding: 0;
@@ -55,16 +50,11 @@ body p.shadow900{
 	margin-bottom: 0px;
 }
 
-body.photo p.shadow900{	
-	margin-left: 0px;
-	margin-bottom: 0px;
-}
-
 .shadow900:after {
     display:block;
     margin: 0;
     padding: 0;
-    bottom: 6px;
+    bottom: 7px;
     background: url("/images/static/Shadow900.png") 0 0 no-repeat;
     background-size: 100% auto;
     height: 40px;
