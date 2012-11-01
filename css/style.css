@@ -4,12 +4,39 @@ body {
 	letter-spacing: 0.01em;
 	color: #222;
 	/*text-align: justify;*/
-	width: 652px;
+	width: 100%;
 	margin: auto;
 	padding-left:auto;
 	padding-right:auto;	
 	text-rendering: optimizeLegibility;	
-	/*background: url("/images/white_texture.png"); */
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, .footnotes, .btm1, .title, .subtitle, .gist, .border, ul {
+	padding: 0 15px;
+	width: 100%;
+	max-width: 652px;	
+	margin-left:auto;
+	margin-right:auto;	
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+ul { padding-left: 40px; }
+.title h1{padding:0;}
+
+article p, #subtitle {
+	margin-bottom: 5px;
+	padding 0 4px;
+	padding: 0 15px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+img {
+	max-width: 100%;
 }
 
 body.photo{
@@ -18,29 +45,36 @@ body.photo{
 
 
 body p.shadow900{	
-	margin-left: -125px;
+	/*margin-left: -125px;*/
+	padding: 0;
 	display: block;
 	position: relative;
+	max-width: 900px;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0px;
 }
 
 body.photo p.shadow900{	
 	margin-left: 0px;
+	margin-bottom: 0px;
 }
 
 .shadow900:after {
-    background: url("/images/Shadow900.png") no-repeat scroll 0 0 transparent;
+    display:block;
+    margin: 0;
+    padding: 0;
     bottom: 6px;
-    content: "";
-    display: block;
+    background: url("/images/static/Shadow900.png") 0 0 no-repeat;
+    background-size: 100% auto;
     height: 40px;
-    margin-bottom: -40px;
     position: relative;
-    width: 900px;
     z-index: -1;
+    content: " ";
 }
 
 .shadow640:after {
-    background: url("/images/Shadow640.png") no-repeat scroll 0 0 transparent;
+    background: url("/images/static/Shadow640.png") no-repeat scroll 0 0 transparent;
     bottom: 6px;
     content: "";
     display: block;
@@ -52,7 +86,7 @@ body.photo p.shadow900{
 }
 
 .shadow240:after {
-    background: url("/images/Shadow240.png") no-repeat scroll 0 0 transparent;
+    background: url("/images/static/Shadow240.png") no-repeat scroll 0 0 transparent;
     bottom: 6px;
     content: "";
     display: block;
@@ -95,21 +129,26 @@ body h4{	font-size: 20px;}
 body h5{	font-size: 18px;}
 body h6{	font-size: 14px; font-weight: normal;margin-bottom: 15px;}
 
-article p, article li, #subtitle {
-	margin-bottom: 5px;
-}
 
 blockquote {
-    border-left: solid 1px #aaa;
-    padding: 0em 0em 0em 0.7em;
+    border-left: solid 20px white;
+    /*padding: 0em 0em 0em 0.7em;
     margin-left: 1em;
-	margin-right: 0em;
+	margin-right: 0em;*/
+
+    position: relative;
+    -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+    width: 100%;
+    background: url(../images/static/block.png) repeat-y;
 }
+
+
+blockquote p {padding:0;}
 
 #posts sup{
 	font-size: 60%;
-	/*bottom: 5px;
-	position: relative;   */
 }
 
 .footnotes{
@@ -126,30 +165,33 @@ hr {
 div.title {
 	
 	padding-top: 10px;
-	float: left;
 	color: #000;
-	/*font-weight:bold;*/
 }
 #subtitle{
-	clear: left;
 	padding-top: 0px;	
 	color: #000;
+	max-width: 652px;
+	margin-left: auto;
+	margin-right: auto;
 }
 .caption{
+    display:block;
 	font-size: 75%;
 	position: relative;
 	text-align: center;
-	top: -20px;
-	margin-bottom: -20px;
+	bottom: 10px;
+	margin: 0 auto 0 auto;
+	margin-bottom: -10px;
+    margin-top: -25px;
 }
 #posts{
 	clear: both;
-	padding-top: 50px;
 }
 
 .posttitle{	
 	line-height: 1.2;
 	font-color: #333;
+	padding: 40px 0 20px 0;
 }
 
 .posttitle h6{
@@ -161,7 +203,7 @@ div.title {
 }
 
 .postcontent{	
-	margin-bottom: 4em;
+	padding-bottom: 50px;
 }
 
 body.photo .postcontent {
@@ -232,10 +274,12 @@ a:hover, article a:hover, .posttitle a:hover{
 
 .newer{
 	float: left; padding-bottom: 50px;
+	clear: right;
 }
 
 .older{
 	float: right; padding-bottom: 50px;
+	clear: right;
 }
 
 .archivedate{
@@ -257,6 +301,15 @@ a:hover, article a:hover, .posttitle a:hover{
 .archivepost h3{
 	margin: 0px;
 }
+.quote {
+	padding-top: 40px;
+	text-align: right;
+}
+.quote h1{
+	text-indent: -0.3em;
+	text-align: left;
+	margin: 0 auto;
+}
 
 .signoff a{
 	padding-top: 25px;
@@ -264,13 +317,9 @@ a:hover, article a:hover, .posttitle a:hover{
 }
 
 .btm1 a.signoff{
-	background-color: #FAFAFA;
-	/*border: 1px solid #CCCCCC;
-	border-radius: 3px 3px 3px 3px;
-	box-shadow: 0 10px 15px #CCCCCC;*/
 	max-width: 30em;
 	padding: 3px;
-	/*background: url("/images/white_texture.png");*/
+	text-align: left;
 }
 
 .center {
@@ -282,6 +331,7 @@ a:hover, article a:hover, .posttitle a:hover{
 .btm1{
 	margin: auto;
 	border-bottom: solid 1px #e1e1e1;	
+	text-align: left;
 }
 
 .btm1 a {
@@ -305,18 +355,18 @@ a:hover, article a:hover, .posttitle a:hover{
 	border-bottom: solid 1px #ddd;
 	display: none;
 }
-.quote h1{
-	text-indent: -0.3em;
-	font-style: bold;
-}
 .link h1{
-	text-indent: -27px;
+	text-indent: -25px;
 	font-size: 31px;
+	padding: 0 15px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
 .quote h3 {
-	float: right;
 	position: relative;
-	bottom: 35px;
+	padding: 0 15px 0 0;
+	margin: 0 auto;
 }
 
 .quote div.signoff{
@@ -374,19 +424,11 @@ font-size: 19px;
 #disqus_thread{margin-top: 50px;}
 
 pre {
-    -moz-border-bottom-colors: none;
-    -moz-border-image: none;
-    -moz-border-left-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-top-colors: none;
-    border-color: -moz-use-text-color #BBBBBB;
-    border-left: 4px solid #BBBBBB;
-    border-right: 4px solid #BBBBBB;
-    border-style: none solid;
-    border-width: 0 4px;
+    border: solid #BBBBBB 1px;
+    border-radius: 3px 3px 3px 3px;
     font-size: 12px;
-    margin: 0 0 30px;
-    padding: 2px 0 2px 15px;
+    padding: 5px; 
+    box-shadow: 2px 3px 5px #CCCCCC;
 }
 
 
@@ -437,4 +479,15 @@ blockquote .corps{
     clear: both;
 }
 
+/*body, .btm1 a.signoff*/
+pre
+{
+	background: url("/images/static/white_texture.png"); 
+}
+.btm1 a.signoff{
+	/*border: 1px solid #CCCCCC;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0 10px 15px #CCCCCC;*/
+}
 
+.paginator{max-width: 652px; margin: 0 auto 0 auto;}

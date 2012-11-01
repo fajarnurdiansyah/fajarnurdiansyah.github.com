@@ -6,48 +6,5 @@
     {
         -webkit-text-size-adjust: none;
     }
-
-    body
-    {
-        width: 92%;
-	margin: 15px;
-    }
-
-    body h1 {
-	font-size: 36px;
-    }
-    .link h1 {
-         font-size: 28px;
-        text-indent: -21px;
-    }    
-    blockquote, .footnotes, .quote, #subtitle, .posttitle {
-        margin-right: 5px;
-    }
-
-    .shadow900 img {
-        width: 89%;
-	margin-left: 15%;
-    }
-    .shadow900:after {   
-        margin-left: 15%;
-        width: 89%;
-    }    
-}
-
-@media screen and (max-width: 320px)
-{
-
-    .shadow900 img {
-        max-width: 320px;
-	margin-left: 110px;
-    }
-    .shadow900:after {   
-        margin-left: 110px;
-        max-width: 320px;
-    }    
-}
-
-@media screen and (max-device-width: 480px)
-{
     
 }

@@ -1,8 +1,10 @@
-safe:        false
+safe:        true
 auto:        true
 server:      true
 server_port: 4000
 base-url:    /
+lsi:         false
+pygments:    true
 
 source:      .
 destination: ./_site
