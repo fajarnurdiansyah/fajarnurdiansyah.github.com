@@ -12,7 +12,7 @@ Hello, my name is Fajar Nurdiansyah.
 
 I'm a programmer, hobbyst photographer, open water diver, and a fast-food eater.
 
-I live in a [beautiful island] in Indonesia, and I write software for [Mitrais]. 
+I live in a [midsized city] in Indonesia, and I write software for [Mitrais]. 
 I doubt you'll ever see my work because most of them are internal corporate 
 software. But I really like writing code, so I create stuff on the weekend. 
 Stuff like [flick].
@@ -34,7 +34,7 @@ code for this blog here].
 
 
 
-[beautiful island]: http://wikitravel.org/en/Bali
+[midsized city]: http://wikitravel.org/en/Bandung
 [Mitrais]: http://www.mitrais.com
 [flick]: http://flick.fajarnurdiansyah.com
 [twitter]: http://twitter.com/fajaronly
