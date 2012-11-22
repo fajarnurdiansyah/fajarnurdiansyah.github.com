@@ -449,9 +449,13 @@ code, pre, tt {
     padding: 0.5em;
     margin: 3px;
     max-width: 640px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 blockquote .corps{
     max-width: 598px;
+    width: 100%;
 }
 
 .gist .gist-file .gist-meta {
