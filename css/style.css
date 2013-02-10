@@ -11,7 +11,7 @@ body {
 	text-rendering: optimizeLegibility;	
 }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, .footnotes, .posttitle, .btm1, .title, .subtitle, .gist, .border, ul {
+h1, h2, h3, h4, h5, h6, p, blockquote, .footnotes, .posttitle, .btm1, .title, .subtitle, .gist, .border, ul, pre {
 	padding: 0 15px;
 	width: 100%;
 	max-width: 652px;	
