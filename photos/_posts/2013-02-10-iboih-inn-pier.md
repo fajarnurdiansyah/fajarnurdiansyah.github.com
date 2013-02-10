@@ -7,7 +7,7 @@ comments: true
 published: true
 intro: 
 ---
-![image](/images/IMG_3856-Edit-2.jpg)
+[![image](/images/IMG_3856-Edit-2.jpg)](http://www.flickr.com/photos/fajarnurdiansyah/8461869526/in/photostream)
 {:title='Blue water, lush green, azure sky' .shadow900}
 A panorama shot of the view at the Iboih Inn pier. Blue water, clear sky.
 {: .caption}
