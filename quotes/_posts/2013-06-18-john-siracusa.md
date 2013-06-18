@@ -1,6 +1,6 @@
 ---
 layout: quote
-title: "Quote of the Day: exDM69"
+title: "Quote of the Day: John Siracusa"
 date: 2013-06-18 13:35
 comments: false
 intro: 
