@@ -1,7 +1,7 @@
 ---
 layout: quote
 title: "Quote of the Day: exDM69"
-date: 2013-01-21 13:35
+date: 2013-06-18 13:35
 comments: false
 intro: 
 ---
