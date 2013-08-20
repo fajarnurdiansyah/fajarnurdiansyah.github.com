@@ -6,7 +6,7 @@ date: 2013-08-20 12:28
 comments: true
 intro: 
 ---
-[![image](/images/IMG_9460.jpg)](http://www.flickr.com/photos/fajarnurdiansyah/8760225519/)
+[![image](/images/IMG_9460.jpg)](http://www.flickr.com/photos/fajarnurdiansyah/9549285417/)
 {:title='Sumur Tiga' .shadow900}
 Sumur Tiga. August 2013
 {: .caption}
