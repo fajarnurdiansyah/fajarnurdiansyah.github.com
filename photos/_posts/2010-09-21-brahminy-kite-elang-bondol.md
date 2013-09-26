@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Brahminy Kite &mdash; Elang Bondol
+title: Brahminy Kite -- Elang Bondol
 intro: Very cool bird of prey
 permalink: /2010/09/brahminy-kite-elang-bondol.html
 thumbnail: /images/thumbs/DSC_9781.jpg

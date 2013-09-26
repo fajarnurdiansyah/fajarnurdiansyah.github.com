@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: "Daily Snap &mdash; Grass Bokeh Sunset"
+title: "Daily Snap - Grass Bokeh Sunset"
 permalink: /daily-snap-grass-bokeh-sunset/
 thumbnail: /images/thumbs/DSC_7903.jpg
 ---
