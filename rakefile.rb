@@ -100,6 +100,48 @@ task :newpost, [:type, :title] do |t, args|
   end
 end
 
+# usage rake newpost[type,my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
+desc "Begin a new post in #{source_dir}/#{posts_dir}"
+task :quote, [:author, :quote] do |t, args|
+  require './plugins/titlecase.rb'
+  mkdir_p "#{source_dir}/#{posts_dir}"
+  args.with_defaults(:author => 'author', :quote => '-')
+  author = args.author
+  quote = args.quote
+
+  posts_dir = "quotes/_posts"
+	
+  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{author.to_url}.#{new_post_ext}"
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  puts "Creating new quote: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: quote"
+    post.puts "title: \"Quote of the Day: #{author.gsub(/&/,'&amp;').titlecase}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+    post.puts "comments: false"
+    if type == "link"
+      post.puts "link: "
+    end
+    post.puts "intro: "
+    post.puts "---"
+    if type == "photo"
+      post.puts "![image](/images/58570010.jpg)"
+      post.puts "{:title='Caption' .shadow900}"
+      post.puts "Caption. #{Time.now.strftime('%B %Y')}"
+      post.puts "{: .caption}"
+    end
+    if type == "quote"
+      post.puts "# \"#{quote}\""
+      post.puts "### -- [#{author}][author]"
+      post.puts ""
+      post.puts "[author]: http://author.com/"
+    end
+  end
+end
+
 def ok_failed(condition)
   if (condition)
     puts "OK"

@@ -11,7 +11,7 @@ date: 2011-07-28 12:30:46
 > suit their needs. An outsider may be puzzled by the fiendish bag hoarder, but 
 > we know better. \[...\]
 >
-> Their names are so exciting that you can’t help but dream of them. The 
+> Their names are so exciting that you can't help but dream of them. The 
 > Speed Demon. The Slingshot. The Urban Disguise. With so many compartments 
 > and interchangeable partitions, they ooze pure sex appeal.
 

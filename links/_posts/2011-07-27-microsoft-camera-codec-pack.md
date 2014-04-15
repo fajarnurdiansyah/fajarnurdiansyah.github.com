@@ -12,7 +12,7 @@ If you want to see the thumbnail of the RAW (NEF, CR2) files from your DSLR
 They [discontinued][] the free version of their RAW images codec but don't 
 worry, Microsoft step up to the plate and released their own [codec pack][].
 It support a whole bunch of cameras, unfortunately still no support for camera 
-using the latest sony sensor: Sony α55, Nikon D7000, Pentax K-5.
+using the latest sony sensor: Sony a55, Nikon D7000, Pentax K-5.
 
 [discontinued]: http://www.fastpictureviewer.com/codecs/#freeversion
 [codec pack]: http://www.microsoft.com/download/en/details.aspx?id=26829

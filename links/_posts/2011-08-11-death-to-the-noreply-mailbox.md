@@ -11,7 +11,7 @@ Joss Crowcroft on the noreply mailbox practice:
 > It basically says to the recipient:
 >
 >  *"I'm not interested in hearing from you by email, regardless of whether 
-> email is better or easier for you. I just don’t respect you enough to take 
+> email is better or easier for you. I just don't respect you enough to take 
 > the risk that a dozen people might reply and insult me."* \[...\]
 >
 > So I've given you my email address. I've given you the permission to contact 
