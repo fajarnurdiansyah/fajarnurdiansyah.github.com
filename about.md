@@ -3,16 +3,13 @@ layout: default
 title: About
 permalink: /about/
 ---
-<div markdown="1">
-<article>
-
 # About
 
-Hello, my name is Fajar Nurdiansyah. 
+Hello, my name is Fajar Nurdiansyah.
 
 I'm a programmer, hobbyst photographer, open water diver, and a fast-food eater.
 
-I live in a [midsized city] in Indonesia, and I write software for [Mitrais]. 
+I live in a [midsized city] in Indonesia, and I write software for [GeekSeat]. 
 I doubt you'll ever see my work because most of them are internal corporate 
 software. But I really like writing code, so I create stuff on the weekend. 
 Stuff like [flick].
@@ -35,7 +32,7 @@ code for this blog here].
 
 
 [midsized city]: http://wikitravel.org/en/Bandung
-[Mitrais]: http://www.mitrais.com
+[GeekSeat]: http://www.geekseat.com.au
 [flick]: http://flick.fajarnurdiansyah.com
 [twitter]: http://twitter.com/fajaronly
 [flickr]: http://flickr.com/photos/fajarnurdiansyah
@@ -51,5 +48,4 @@ code for this blog here].
 [^code]: Other than code that is, I'm good with code. We understand each other.
 [^jekyll]: Such fancy words for a software that basically take text file blog 
 posts and spit out a bunch of index.html page.
-</article>
-</div>
+
