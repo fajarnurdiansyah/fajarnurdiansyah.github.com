@@ -8,7 +8,7 @@ thumbnail: /images/thumbs/DSC_0227-3.jpg
 [![Belajar Portrait][6]][7]
 {: .shadow900}
 
-   [6]: /images/DSC_0227.jpg (Belajar Portrait)
+   [6]: /images/DSC_0227.jpg
    [7]: /images/DSC_0227.jpg
 
 One fine morning in Tidung Island
