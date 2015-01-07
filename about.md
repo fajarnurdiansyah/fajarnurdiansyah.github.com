@@ -26,7 +26,7 @@ The blog is a static html website powered by [jekyll], a simple, blog aware,
 static site generator.[^jekyll] Modeled after tumblr, it has [Link], [Quote], 
 and [Photo] post. I dont see how I will use Chat and Audio post. 
 
-Hosting is provided by the awesome [GitHub], you can view the full [source 
+Hosting is provided by [GitHub], you can view the full [source 
 code for this blog here].
 
 
